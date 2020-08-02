@@ -1,0 +1,10 @@
+{% assign foldername = include.path | remove: "_posts/" | remove: ".md" | append: "/" | prepend: "/" %}
+{% assign images = site.static_files | where_exp:"file", "file.path contains foldername" %}
+
+{% if page.nogallery == nil and images.first %}
+  <p class="autogallery">
+  {% for image in images %}
+    <a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" class="autogallery-img"></a>
+  {% endfor %}
+  </p>
+{% endif %}

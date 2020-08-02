@@ -1,0 +1,11 @@
+.autogallery {
+  text-align: center;
+  background-color: lightgray;
+  padding: 1em;
+  border-radius: 10px;
+}
+
+.autogallery-img {
+  height: 10em;
+  display: inline-block;
+}
