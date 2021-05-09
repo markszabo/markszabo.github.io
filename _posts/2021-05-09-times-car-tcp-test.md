@@ -36,6 +36,8 @@ TCPプログラムでステージ4になると全車両をベーシック料金�
 空き状況も表示されるので、迷うことなく駐車場を見つけられます。
 ![タイムズカーナビ画像](https://share.timescar.jp/dynamic/images/tcpTest_ph005.png)
 
+<!--break-->
+
 ***
 
 ## 設問4
