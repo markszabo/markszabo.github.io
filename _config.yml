@@ -1,17 +1,17 @@
 # Setup
-title:               Hobo by choice
-tagline:             'My digital nomad experience travelling around Japan'
-description:         'My digital nomad experience travelling around Japan'
-url:                 https://hobo.szabo-simon.hu
+title:               マークン
+tagline:             'Japan and tech'
+description:         'Japan and tech'
+url:                 https://m.szabo.jp
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Szabo-Simon
+  name:              Mark Szabo
   url:               https://twitter.com/torin42
-  email:             mark@szabo-simon.hu
+  email:             mark@szabo.jp
 
 # Gems
 plugins:
