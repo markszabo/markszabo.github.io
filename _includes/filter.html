@@ -1,7 +1,7 @@
 {% assign tag = page.url | remove:'/' %}
-<h1>Posts tagged #{{ tag }}</h1>
+<h1>#{{ tag }} posts</h1>
 <div class="posts">
-  {% for post in site.tags[tagname] %}
+  {% for post in site.tags[tag] %}
     {% include post-in-list.html %}
   {% endfor %}
 </div>
