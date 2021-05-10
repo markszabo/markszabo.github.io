@@ -2,6 +2,7 @@
 layout: post
 title: Times Car TCP test
 date: 2021-05-09 13:21:00 +09:00
+tags: japan
 ---
 
 I've been using Times Car Share for almost half a year now, and totally love it. I'll write a separate post about it, but yesterday I took their online quiz for some extra TCP points. As I was googleing some of the questions, I found an [older set of questions](https://masshiro.blog/times-tcp/), so I decided to share the latest ones.

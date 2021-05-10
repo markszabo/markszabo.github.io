@@ -2,7 +2,7 @@
 layout: post
 title: Getting a .jp domain
 date: 2021-05-09 14:13:00 +09:00
-tags: tech
+tags: tech japan
 ---
 
 I have a super common family name in Hungary: Szabo. It means tailor, and appr. 2% of Hungarians have this family name ([203,126](https://en.wikipedia.org/wiki/Szab%C3%B3) out of [9,730,000](https://en.wikipedia.org/wiki/Demographics_of_Hungary)). Thus szabo.hu, szabo.eu, szabo.com, szabo.net, szabo.info, szabo.me, szabo.xyz etc. are mostly taken. However I recently checked and szabo.jp was available! Following a [Tokyo Cheapo guide](https://tokyocheapo.com/business/registering-jp-domains-for-cheap/) I found [Star Domain](https://www.star-domain.jp?ref=NA99yyrv) and bought the domain there for 2560 yen/year. (Star Domain has a referral program, so if you use this link, I might earn a little money.)
