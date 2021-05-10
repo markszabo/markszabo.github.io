@@ -2,6 +2,7 @@
 layout: post
 title: Restricting Google App Script permissions
 date: 2021-05-10 18:30:00 +09:00
+tags: tech
 ---
 
 > Google Apps Script is a rapid application development platform that makes it fast and easy to create business applications that integrate with Google Workspace. You write code in modern JavaScript and have access to built-in libraries for favorite Google Workspace applications like Gmail, Calendar, Drive, and more.
