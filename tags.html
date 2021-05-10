@@ -1,0 +1,10 @@
+---
+layout: default
+title: #{{ page.url.params.tag }}
+---
+
+<div class="posts">
+  {% for post in site.tags[page.url.params.tag] %}
+    {% include post-in-list.html %}
+  {% endfor %}
+</div>
