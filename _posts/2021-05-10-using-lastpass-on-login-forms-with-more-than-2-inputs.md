@@ -2,7 +2,6 @@
 layout: post
 title: Using LastPass on login forms with more than 2 inputs
 date: 2021-05-10 17:55:00 +09:00
-nogallery: true
 ---
 
 LastPass generally handles common login pages with a username and password well, but it breaks on login forms that have more than those two fields. But there is a solution.
