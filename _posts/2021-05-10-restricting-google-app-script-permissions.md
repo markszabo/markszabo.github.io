@@ -11,6 +11,8 @@ tags: tech
 
 Google Apps Script provide an easy way to automate repetitive tasks in the Google ecosystem (e.g. Drive). It is somewhat similar to macros in Microsoft Office. An App Script will ask for permissions before it can interact with any document of the user, and by default these permissions are unnecessarily wide. This write up is meant to help restricting these permissions.
 
+<!--break-->
+
 ## Script types
 
 **Standalone**

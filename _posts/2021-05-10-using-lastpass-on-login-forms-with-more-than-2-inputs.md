@@ -15,6 +15,8 @@ Here is the site I'll use as an example: the login page of the SMBC bank: [https
 
 The first line gives 2 options for identifying your user: either specify your bank account number (branch code and account number) or use your contractor number. I'm using the first one, so let's focus on that. The problem is that the branch code and the account numbers are two separate text boxes, thus when I fill them out and login, then LastPass will only save one of them as username.
 
+<!--break-->
+
 ## Edit the Form Fields
 
 There is a feature of LastPass that solves this issue. Go to edit the login entry. On the bottom left there is a wrench icon, click that:
