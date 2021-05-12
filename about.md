@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+gallery: true
 ---
 
 I'm Mark, a Hungarian engineer living in Japan. I moved here in the summer of 2019, and I quickly fall in love with the cuntry, so I plan on staying here for a while. I enjoy discovering the similarities and differences between everyday life in Japan and Europe (mostly Hungary, but I also spent a semester in Germany and 2 semesters in Italy during my university studies), should it be about transportation, food, shopping or religion. Thus I try to stay away of the foreigner bubble and discover the less touristic Japan.
