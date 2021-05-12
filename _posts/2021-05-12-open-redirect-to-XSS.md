@@ -21,6 +21,8 @@ window.location.href= url;
 
 [Demo](https://jsfiddle.net/MarkSzs/zedqtk75/2/)
 
+<!--break-->
+
 Another great thing about this is that no redirect happens, so the injected JavaScript executes in the context of the current page (see `document.domain` from the `alert`), so it has access to the site the same way a normal XSS has.
 
 ## Catch 1: Redirect doesn't happen immediately
