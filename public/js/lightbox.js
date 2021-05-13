@@ -97,8 +97,7 @@ document.addEventListener("DOMContentLoaded", function() {
             }
             if(is_imagelink(url) && !element.classList.contains('no-lightbox')) {
                 element.classList.add('lightbox-image');
-                var href = element.getAttribute('href');
-                var filename = href.split('/').pop();
+                var filename = url.split('/').pop();
                 var split = filename.split(".");
                 var name = split[0];
                 element.setAttribute('title',name);
@@ -113,7 +112,7 @@ document.addEventListener("DOMContentLoaded", function() {
             document.getElementById('lightbox').style.display = 'none';
         }
     });
-    
+
     //add the youtube lightbox on click
     var elements = document.querySelectorAll('a.lightbox-youtube');
     elements.forEach(element => {

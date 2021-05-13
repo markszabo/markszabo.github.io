@@ -1,3 +1,33 @@
+# My blog
+
+Available on https://szabo.jp
+
+## Custom mods
+
+### Gallery
+
+Adding `gallery: true` to the header of a page/post will insert a gallery to the end with photos from `/assets/{page or post name}`:
+
+```
+---
+layout: page
+title: About
+gallery: true
+---
+```
+
+### Lightbox for images
+
+Adding `#lb` to the end of an image URL will make it a clickable image that opens in a lightbox:
+
+`![Vending machines in rural Tochigi](assets/2021-05-13-coke-on/vendingmachines.jpeg#lb)`
+
+## Local Development
+
+```
+docker run --rm -v $(pwd):/srv/jekyll -p 4000:4000 -it jekyll/jekyll:builder jekyll serve --livereload
+```
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
