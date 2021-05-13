@@ -2,7 +2,7 @@
 title:               マークン
 tagline:             'Japan and tech'
 description:         'Japan and tech'
-url:                 https://m.szabo.jp
+url:                 https://szabo.jp
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -11,7 +11,6 @@ permalink:           pretty
 author:
   name:              Mark Szabo
   url:               https://twitter.com/torin42
-  email:             mark@szabo.jp
 
 # Gems
 plugins:
