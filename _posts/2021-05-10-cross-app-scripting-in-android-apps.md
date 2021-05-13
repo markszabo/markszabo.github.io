@@ -137,4 +137,4 @@ Have an allowlist of domains and check that the URL from the Intent starts with 
 
 ### Accepting any subdomains
 
-If all subdomains of a trusted domain need to be accepted, it's tempting to parse the URL and then ensure that the hostname ends with `.example.com` (leading `.` is important, otherwise `attackerexample.com` would be accepted). However make sure to check the protocol too, otherwise this might get accepted: `javascript://mysite.example.com/%0aalert(1)`. But more on this trick in an other post.
+If all subdomains of a trusted domain need to be accepted, it's tempting to parse the URL and then ensure that the hostname ends with `.example.com` (leading `.` is important, otherwise `attackerexample.com` would be accepted). However make sure to check the protocol too, otherwise this might get accepted: `javascript://mysite.example.com/%0aalert(1)`. But more on this trick in [another post](https://szabo.jp/2021/05/12/open-redirect-to-XSS/).
