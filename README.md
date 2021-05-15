@@ -20,7 +20,7 @@ gallery: true
 
 Adding `#lb` to the end of an image URL will make it a clickable image that opens in a lightbox:
 
-`![Vending machines in rural Tochigi](assets/2021-05-13-coke-on/vendingmachines.jpeg#lb)`
+`![Vending machines in rural Tochigi](/assets/2021-05-13-coke-on/vendingmachines.jpeg#lb)`
 
 ## Local Development
 

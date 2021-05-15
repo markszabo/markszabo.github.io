@@ -37,7 +37,7 @@ For most use-cases Container-bound Scripts are a better fit.
 
 When authorizing a script it will ask access to all documents in the user's Drive, even if the script is bound to a single document and only interacting with that document:
 
-![](assets/2021-05-10-restricting-google-app-script-permissions/originalpermissions.png)
+![Consent message with original authorization scopes](/assets/2021-05-10-restricting-google-app-script-permissions/originalpermissions.png#lb)
 
 Once it's authorized, it can access other documents from the user's Drive by e.g.:
 
@@ -78,7 +78,7 @@ And add the following line to the the json (for a script that should only intera
 
 Either of these options will restrict the scope to the single document and in turn change the authorization screen to:
 
-![](assets/2021-05-10-restricting-google-app-script-permissions/newpermissions.png)
+![Consent message with restricted authorization scopes](/assets/2021-05-10-restricting-google-app-script-permissions/newpermissions.png#lb)
 
 If you need more permissions (e.g. access to an other file), this seems like a good place to start: [https://stackoverflow.com/a/57564752/8590802](https://stackoverflow.com/a/57564752/8590802)
 
