@@ -9,3 +9,14 @@
   height: 10em;
   display: inline-block;
 }
+
+.inline-image-parent {
+  text-align: center;
+  background-color: lightgray;
+  padding-bottom: 0.2em;
+  border-radius: 10px;
+}
+
+.text-after-img {
+  font-style: italic;
+}
