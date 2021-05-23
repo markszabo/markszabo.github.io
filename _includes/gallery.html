@@ -4,7 +4,9 @@
 {% if (page.gallery) and images.first %}
   <p class="autogallery">
   {% for image in images %}
-    <a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" class="autogallery-img"></a>
+    {% unless image.path contains 'nogallery' %}
+      <a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" class="autogallery-img"></a>
+    {% endunless %}
   {% endfor %}
   </p>
 {% endif %}
