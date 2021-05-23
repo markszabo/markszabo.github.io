@@ -25,7 +25,7 @@ Adding `#lb` to the end of an image URL will make it a clickable image that open
 ## Local Development
 
 ```
-docker run --rm -v $(pwd):/srv/jekyll -p 4000:4000 -it jekyll/jekyll:builder jekyll serve --livereload
+docker run --rm -v $(pwd):/srv/jekyll -p 4000:4000 -it jekyll/jekyll:builder jekyll serve --livereload --future
 ```
 
 # Lanyon
