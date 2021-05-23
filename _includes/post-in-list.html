@@ -9,7 +9,7 @@
 
   {{ post.content | split:'<!--break-->' | first }}
   {% if post.content contains '<!--break-->' %}
-     <a href="{{ post.url }}">Read more</a>
+     <a href="{{ post.url }}" class="readmore">Read more</a>
   {% endif %}
 
   {% include gallery.html path=post.path %}

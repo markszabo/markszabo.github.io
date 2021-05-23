@@ -6,8 +6,9 @@
 }
 
 .autogallery-img {
-  height: 10em;
+  width: 14em;
   display: inline-block;
+  margin: 0.2em;
 }
 
 .inline-image-parent {
@@ -19,4 +20,14 @@
 
 .text-after-img {
   font-style: italic;
+}
+
+.readmore {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+}
+
+.readmore:hover {
+  background-color: lightgray;
 }
