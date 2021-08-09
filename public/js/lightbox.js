@@ -73,6 +73,16 @@ function setGallery(el) {
 		document.getElementById('prev').addEventListener("click", function() {
 			gallery_elements[prevkey].click();
 		});
+        document.addEventListener("keydown", function(event) {
+            switch (event.key) {
+                case "ArrowLeft":
+                    gallery_elements[prevkey].click();
+                    break;
+                case "ArrowRight":
+                    gallery_elements[nextkey].click();
+                    break;
+            }
+		});
 	}
 }
 
