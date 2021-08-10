@@ -31,3 +31,15 @@
 .readmore:hover {
   background-color: lightgray;
 }
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+#topmenu {
+  clear: both;
+}
