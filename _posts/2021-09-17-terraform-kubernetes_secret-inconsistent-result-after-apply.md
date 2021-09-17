@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Terraform's kubernetes_secret giving 'Error: Provider produced inconsistent result after apply'
+title: "Terraform's kubernetes_secret giving 'Error: Provider produced inconsistent result after apply'"
 tags: tech
 ---
 
 I'm creating a new `kubernetes_secret` via Terraform for an existing service account like this:
 
-```json
+```
 resource "kubernetes_secret" "my_service_account_token" {
   metadata {
     name = "my-service-account-token"
@@ -19,7 +19,11 @@ resource "kubernetes_secret" "my_service_account_token" {
 }
 ```
 
-so that then I can use this token elsewhere like: `kubernetes_secret.my_service_account_token.data["token"]`. However applying this gave the following error:
+so that then I can use this token elsewhere like: `kubernetes_secret.my_service_account_token.data["token"]`. 
+
+<!--break-->
+
+However applying this gave the following error:
 
 ```bash
 ╷
