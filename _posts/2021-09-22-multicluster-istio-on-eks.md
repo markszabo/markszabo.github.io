@@ -8,6 +8,9 @@ Recently I was working on setting up istio in a multi-cluster setup following th
 
 <!--break-->
 
+> I also implemented this workaround as a shell script running in a `CronJob`, check it out [here](https://github.com/markszabo/istio-crosscluster-workaround-for-eks).
+
+
 This turns out to be [a known problem with EKS](https://github.com/istio/istio/issues/29359) and [comes down to the fact that EKS loadbalancers use hostnames instead of IP addresses](https://github.com/istio/istio/issues/29359#issuecomment-738234802), which are not supported by istio.
 
 Workaround: manually resolve the IP and add it to `istio` ConfigMap (namespace: `istio-system`).
