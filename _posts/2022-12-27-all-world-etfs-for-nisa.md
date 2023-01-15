@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All-World ETFs for NISA
-tags: japan
+tags: japan money
 ---
 
 My go-to investment is the [Vanguard Total World Stock ETF (VT)](https://investor.vanguard.com/investment-products/etfs/profile/vt) that includes stocks in close to all companies of the world, so as long as the world economy does well, it goes up. Being a US-based security the dividends are subject to a 10% tax withholding in the US (regardless of me not having to file US taxes). This is not an issue for regular investments, as Japan levies a 20% tax on dividends and due to the tax treaty with the US I can deduct the already paid 10% and only pay the other 10% in Japan (I'm using Interactive Brokers, so I'm doing this myself when filing my taxes). 

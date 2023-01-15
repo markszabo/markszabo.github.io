@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shared bank account for non-married couples in Japan
-tags: japan
+tags: japan money
 ---
 
 The [internet](http://www.accessj.com/2011/12/banking-in-japan-2-opening-account.html#:~:text=or%20automatic%20payments.-,Joint%20Accounts%3F,-According%20to%20Japanese) [wisdom](https://www.reddit.com/r/japanlife/comments/piq0yx/joint_bank_accounts/) [seems](https://www.expatfocus.com/japan/financial/how-to-open-a-bank-account-in-japan-6376#:~:text=Joint%20bank%20accounts%20are%20illegal%20in%20Japan) to agree that shared accounts (or joint accounts) are illegal and impossible in Japan.
