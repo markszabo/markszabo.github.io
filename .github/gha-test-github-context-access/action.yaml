@@ -6,7 +6,7 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - name: Get all issues for this repository
+    - name: Get all pull requests for this repository
       shell: bash
       run: |
         curl -L \
