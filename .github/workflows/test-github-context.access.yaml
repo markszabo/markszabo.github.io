@@ -1,0 +1,9 @@
+on: [push]
+
+jobs:
+  test-github-context-access:
+    runs-on: ubuntu-latest
+    name: Test github context access from workflows
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ./.github/gha-test-github-context-access
