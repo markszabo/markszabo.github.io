@@ -1,5 +1,7 @@
 on: [push]
 
+permissions: read-all
+
 jobs:
   test-github-context-access:
     runs-on: ubuntu-latest
