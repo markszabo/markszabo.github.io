@@ -16,7 +16,7 @@ However the docs fall short of showing how to do it, and it took me a while to f
 The solution is to use an input and set its default value to `github.token`. In composite actions, one can also use the `github` context directly, however it can not be used when passing environment variables in a non-composite action.
 
 ```yaml
-name: 'Test github context access'
+{% raw %}name: 'Test github context access'
 inputs:
   gh-token:
     description: "A GitHub PAT used to add the comment to the PR"
@@ -31,7 +31,7 @@ runs:
         -H "Accept: application/vnd.github+json" \
         -H "Authorization: Bearer ${{ inputs.gh-token }}" \
         -H "X-GitHub-Api-Version: 2022-11-28" \
-        https://api.github.com/repos/${{ github.repository }}/issues
+        https://api.github.com/repos/${{ github.repository }}/issues{% endraw %}
 ```
 
 See this in action [here](https://github.com/markszabo/markszabo.github.io/pull/1).
