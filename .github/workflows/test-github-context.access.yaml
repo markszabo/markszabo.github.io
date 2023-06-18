@@ -1,6 +1,7 @@
 on: [push]
 
-permissions: read-all
+permissions:
+  issues: read
 
 jobs:
   test-github-context-access:
