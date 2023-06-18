@@ -1,7 +1,7 @@
 name: 'Test github context access'
 inputs:
   gh-token:
-    description: "A GitHub PAT used to add the comment to the PR"
+    description: "The github token used to list issues"
     default: ${{ github.token }}
 runs:
   using: "composite"
