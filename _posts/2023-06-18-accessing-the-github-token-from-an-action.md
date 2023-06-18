@@ -4,7 +4,7 @@ title: Accessing the Github token from a Github action
 tags: tech
 ---
 
-For each Github action workflow, Github creates a unique Github token. This can accessed a either via the  `GITHUB_TOKEN` secret (`$\{\{ secrets.GITHUB_TOKEN }}`) or via the `github` context (`$\{\{ github.token }}`).
+For each Github action workflow, Github creates a unique Github token. This can accessed a either via the  `GITHUB_TOKEN` secret (`{% raw %}${{ secrets.GITHUB_TOKEN }}{% endraw %}`) or via the `github` context (`{% raw %}${{ github.token }}{% endraw %}`).
 The [docs](https://docs.github.com/en/actions/security-guides/automatic-token-authentication#using-the-github_token-in-a-workflow) also note that 
 
 > An action can access the GITHUB_TOKEN through the github.token context even if the workflow does not explicitly pass the GITHUB_TOKEN to the action.
@@ -20,7 +20,7 @@ name: 'Test github context access'
 inputs:
   gh-token:
     description: "A GitHub PAT used to add the comment to the PR"
-    default: $\{\{ github.token }}
+    default: ${{ github.token }}
 runs:
   using: "composite"
   steps:
@@ -29,9 +29,9 @@ runs:
       run: |
         curl -L \
         -H "Accept: application/vnd.github+json" \
-        -H "Authorization: Bearer $\{\{ inputs.gh-token }}" \
+        -H "Authorization: Bearer ${{ inputs.gh-token }}" \
         -H "X-GitHub-Api-Version: 2022-11-28" \
-        https://api.github.com/repos/$\{\{ github.repository }}/issues
+        https://api.github.com/repos/${{ github.repository }}/issues
 ```
 
 See this in action [here](https://github.com/markszabo/markszabo.github.io/pull/1).
