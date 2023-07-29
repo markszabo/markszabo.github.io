@@ -73,7 +73,7 @@ To receive the tax refund/break, there is some necessary paperwork with two main
 
 * the normal process: if one is not eligible for the one-stop exception (they need to file tax return, or donated to more than 5 places), they need to file tax return and include furusato nozei there. 
    - if filing on paper: after donation the receiving city sends a certificate of donation, which one needs to include with the tax return (*though I have never done this, so correct me if I'm wrong*)
-   - if filing online: most furusato websites provide a digitally signed xml file ([寄附金控除に関する証明書](https://www.furusato-tax.jp/feature/a/2022_tax_return), Certificate of Donation Deduction) that one can simply upload to the e-Tax website. See [my other post on how to do this in detail](TODO-add-other-post.md)
+   - if filing online: most furusato websites provide a digitally signed xml file ([寄附金控除に関する証明書](https://www.furusato-tax.jp/feature/a/2022_tax_return), Certificate of Donation Deduction) that one can simply upload to the e-Tax website. See [my other post on how to do this in detail](./2023-07-29-furusato-nozei-with-e-tax.md)
 
 # 5. Timeline
 
