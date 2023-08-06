@@ -4,7 +4,7 @@ title: How to get all repositories of an enterprise on GitHub Enterprise Cloud
 tags: tech
 ---
 
-Github Enterprise Cloud is an enterprise version of GitHub.com "designed for large businesses or teams who collaborate on GitHub.com"([source](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-enterprise-cloud)).
+GitHub Enterprise Cloud is an enterprise version of GitHub.com "designed for large businesses or teams who collaborate on GitHub.com"([source](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-enterprise-cloud)).
 There is a strong emphasis on security, which extends to strong limits on programmatic access, especially to enterprise-wide resources, so getting all organizations or all repositories of the enterprise becomes non-trivial.
 This guide will describe how to do just these.
 
@@ -14,11 +14,11 @@ This guide will describe how to do just these.
 
 The goal is to get all current and future organizations and repositories that belong to the enterprise. It needs to handle new organizations added without additional configuration.
 
-So on a high level: we need an identity with enough permissions to access these resources, then use that identity to call an API. [Github has a REST API](https://docs.github.com/en/enterprise-cloud@latest/rest/overview/about-githubs-apis?apiVersion=2022-11-28) that looks like it could work.
+So on a high level: we need an identity with enough permissions to access these resources, then use that identity to call an API. [GitHub has a REST API](https://docs.github.com/en/enterprise-cloud@latest/rest/overview/about-githubs-apis?apiVersion=2022-11-28) that looks like it could work.
 
 # What doesn't work
 
-While the docs mention [the use-case of machine accounts](https://docs.github.com/en/enterprise-cloud@latest/get-started/learning-about-github/types-of-github-accounts#:~:text=Tip%3A%20Personal%20accounts%20are%20intended%20for%20humans%2C%20but%20you%20can%20create%20accounts%20to%20automate%20activity%20on%20GitHub%20Enterprise%20Cloud.%20This%20type%20of%20account%20is%20called%20a%20machine%20user.%20For%20example%2C%20you%20can%20create%20a%20machine%20user%20account%20to%20automate%20continuous%20integration%20(CI)%20workflows.) these use licenses, so it is generally recommended [to use Github Apps instead](https://josh-ops.com/posts/github-apps/). However Github Apps can [only be installed either on repositories or on organizations](https://docs.github.com/en/enterprise-cloud@latest/apps/using-github-apps/installing-your-own-github-app), so while this could work, it would need to be installed on all new orgs manually (there doesn't seem to be any API that would install Github apps). So we have to use machine accounts.
+While the docs mention [the use-case of machine accounts](https://docs.github.com/en/enterprise-cloud@latest/get-started/learning-about-github/types-of-github-accounts#:~:text=Tip%3A%20Personal%20accounts%20are%20intended%20for%20humans%2C%20but%20you%20can%20create%20accounts%20to%20automate%20activity%20on%20GitHub%20Enterprise%20Cloud.%20This%20type%20of%20account%20is%20called%20a%20machine%20user.%20For%20example%2C%20you%20can%20create%20a%20machine%20user%20account%20to%20automate%20continuous%20integration%20(CI)%20workflows.) these use licenses, so it is generally recommended [to use GitHub Apps instead](https://josh-ops.com/posts/github-apps/). However GitHub Apps can [only be installed either on repositories or on organizations](https://docs.github.com/en/enterprise-cloud@latest/apps/using-github-apps/installing-your-own-github-app), so while this could work, it would need to be installed on all new orgs manually (there doesn't seem to be any API that would install GitHub apps). So we have to use machine accounts.
 
 Authenticating with a machine account's username and password is [not supported](https://docs.github.com/en/enterprise-cloud@latest/rest/overview/authenticating-to-the-rest-api?apiVersion=2022-11-28#authenticating-with-username-and-password), so we have to use tokens.
 
@@ -42,7 +42,7 @@ query {
 }
 ```
 
-Unfortunately this doesn't work with Github Apps, however it works with any user of the enterprise and it returns all organizations, including the ones the user is not a member of. 
+Unfortunately this doesn't work with GitHub Apps, however it works with any user of the enterprise and it returns all organizations, including the ones the user is not a member of. 
 
 To try it generate a classic PAT for your account with the following scopes:
 
