@@ -19,7 +19,7 @@ kubectl logs -c istio-proxy app-ui-543875cf14-a2b33
 
 <!--break-->
 
-The app was setup like this: the request hit the istio ingress, which forwarded the request to the `app-gateway` Service. The `app-gateway` Pod then routed the request to the approriate Service (acting as a reverse proxy).
+The app was setup like this: the request hit the istio ingress, which forwarded the request to the `app-gateway` Service. The `app-gateway` Pod then routed the request to the approriate Service (acting essentially as a reverse proxy).
 
 The `app-gateway` Pod could reach `app-ui` via `curl` just fine:
 
@@ -31,7 +31,7 @@ kubectl exec -it app-gateway-78954c5f7b-5pwt5 -- curl 'http://app-ui:8080'
 ...
 ```
 
-The issue turned out to be this: when `app-gateway` forwarded the request, it didn't rewrite the `Host` header. This is not an issue on normal kubernetes deployments, but istio's envoy sidecar checks the Host header and as that doesn't match the Pod (the hostname only has a `VirtualService` entry pointing to `app-gateway`), it didn't forward the request.
+The issue turned out to be this: when `app-gateway` forwarded the request, it didn't rewrite the `Host` header. This is not an issue on normal kubernetes deployments, but istio's envoy sidecar checks the Host header and as that didn't match the Pod (the hostname only had a `VirtualService` entry pointing to `app-gateway`), it didn't forward the request.
 
 Setting the `Host` header manually resulted in the original error message:
 
@@ -40,4 +40,4 @@ kubectl exec -it app-gateway-78954c5f7b-5pwt5 -- curl --header 'Host: my-app.exa
 upstream connect error or disconnect/reset before headers. reset reason: connection termination
 ```
 
-Solution: gateway needed to rewrite the `Host` header to match the destination hostname, in this case: `http://app-ui:8080`.
+Solution: gateway needed to rewrite the `Host` header to match the destination hostname, in this case: `http://app-ui:8080`. One this was done, it started to work as expected.
