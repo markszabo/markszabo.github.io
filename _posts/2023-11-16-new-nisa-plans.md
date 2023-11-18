@@ -31,11 +31,15 @@ I already looked at the [existing all-world ETFs in my earlier post](./2022-12-2
 3. Stay away from currency-hedged investments. Recently the yen dropped to historical lows against the dollar, so some people are looking at funds that provide currency hedge (e.g. if the S&P500 goes from $4500 to $4950, then the fund's value in yen will also increase 10% regardless of the exchange rate change). This sounds good, however it comes at a huge cost that's often hidden in the descriptions. This cost eats into the profit on long time horizonts, while currency fluctuation tends to even out in decades.
 4. Avoid funds that wrap other funds to limit [double/triple taxation](https://retirewiki.jp/wiki/Japanese_global_index_funds#The_triple_taxation_problem)
 
-I found that [eMaxis Slim All Country (ｅＭＡＸＩＳ Ｓｌｉｍ 全世界株式（オール・カントリー）)](https://emaxis.jp/fund/253425.html) fits all of these with a low, 0.1144％ yearly fee (this is not too bad even compared to Vanguard's VT's 0.07% fee).
+I found that [eMaxis Slim All Country (ｅＭＡＸＩＳ Ｓｌｉｍ 全世界株式（オール・カントリー）)](https://emaxis.jp/fund/253425.html) fits all of these with a low, 0.1144％ yearly fee (this is not too bad even compared to Vanguard's VT's 0.07% fee). If you are looking for an alternative, I recommend checking out [the other eMaxis Slim funds](https://medium.com/@retirejapan/japans-best-mutual-fund-lineup-72ebf1500bf5) as they are all pretty low-fee, and they all reinvest the dividents.
 
 ## When to invest?
 
 The new NISA has a yearly limit of 3.6 million yen. Assuming the entire amount is available in January, is it better to invest it immediately or to split it into 12 parts and invest each month?
+
+These two strategies are commonly referred to as lump-sum investing and (dollar) cost averaging and [research finds](https://investor.vanguard.com/investor-resources-education/news/lump-sum-investing-versus-cost-averaging-which-is-better) that lump-sum investing is a better strategy:
+
+> Using MSCI World Index returns for 1976–2022, Finlay and Zorn calculated that LS [lump-sum] outperformed CA [cost  averaging] 68% of the time across global markets measured after one year.
 
 ## How to invest?
 
