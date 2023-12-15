@@ -24,7 +24,7 @@ Is it possible that this assumption is incorrect? Of course. Population is decli
 
 ## Which fund/ETF?
 
-I already looked at the [existing all-world ETFs in my earlier post]({% link 2022-12-27-all-world-etfs-for-nisa.md | absolute_url %}). A few learnings I took since then:
+I already looked at the [existing all-world ETFs in my earlier post]({% link _posts/2022-12-27-all-world-etfs-for-nisa.md | absolute_url %}). A few learnings I took since then:
 
 1. Always invest in yen denominated securities. This is mostly due to how Japanese taxes work: capital gains are taxed at a fix 20%, but forex gains are considered miscellaneous income and taxed at the marginal tax rate (30-40%). Moreover these two being a different tax category, I believe they can't be used to offset each other. Moreover [forex gains are not tax-free in NISA](https://info.monex.co.jp/help/us-stock/nisa-caution.html#:~:text=%E3%81%BE%E3%81%9F%E3%80%81%E7%82%BA%E6%9B%BF%E5%8F%96%E5%BC%95%E3%81%A7%E7%99%BA%E7%94%9F%E3%81%97%E3%81%9F%E7%82%BA%E6%9B%BF%E6%90%8D%E7%9B%8A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AFNISA%E3%81%AE%E5%88%B6%E5%BA%A6%E5%AF%BE%E8%B1%A1%E5%A4%96%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82).
 2. If possible, find a fund that reinvests dividends. The new NISA has contributions limits only, but the amount in it can grow indefinitely. Automatically reinvesting dividends thus increases the tax-free investment amount.
