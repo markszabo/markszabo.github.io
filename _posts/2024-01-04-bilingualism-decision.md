@@ -77,12 +77,12 @@ The reasons for teaching our kids Hungarian comes down to culture, identity and 
 Hungary shares lot of its culture with the neighboring countries (including food, festivals, history), so the main thing that sets a Hungarian apart from e.g. a Slovakian or a Croatian is the language.
 Our kids will be Hungarian and Japanese, so to be able to fully have the Hungarian identity, having some knowledge of the language seems paramount.
 
-Also I really enjoy Hungarian humor (it's a bit similar to French humor like [Tais-toi!](https://www.imdb.com/title/tt0310203/)), however it just doesn't really translate, so being able to share that with my kids is really important for me.
+Also I really enjoy Hungarian humor (especially the author, [Jenő Rejtő](https://en.wikipedia.org/wiki/Jen%C5%91_Rejt%C5%91). It's a bit similar to French humor like [Tais-toi!](https://www.imdb.com/title/tt0310203/)), however it just doesn't really translate, so being able to share that with my kids is really important for me.
 
 I do recognize that teaching and maintaining Hungarian with our kids is going to be a challenge, so based on books and articles that I read, I prepared a list of strategies to help with it:
 
-1. At home we will follow the one-parent-one-language method, I will only speak Hungarian to the kids, and my wife will only speak Japanese.
-   We will stick to this even if the kids speak to us in a different language, or if they mix the languages (which seem to happen often early on).
+1. At home we will follow the one-parent-one-language method, I will only speak Hungarian to the kids, and my wife will mostly speak Japanese (it is less strict for her, as kids will get exposed to Japanese outside of home anyway).
+   I will stick to this even if the kids speak to me in a different language, or if they mix the languages (which seem to happen often early on).
    When we are outside or with friends, we might speak another language though.
 2. I will read children books in Hungarian, listen to songs in Hungarian, watch cartoons and movies in Hungarian with the kids.
 3. We plan to stay in Hungary for a month each summer.
@@ -95,3 +95,26 @@ I do recognize that teaching and maintaining Hungarian with our kids is going to
    We intend to join this from early on.
 5. We are also considering a Hungarian baby-sitter or au-pair, but the formers are hard to come by in Tokyo, and we don't have enough space in our home for the latter.
    But these are also options that we might consider again later.
+
+## Goal
+
+Some books recommend setting a bilingual goal for your children, usually from the list of 
+
+1. understanding the language
+2. speaking the language
+3. reading in the language
+4. writing in the language
+
+It is generally believed that this order is increasingly more difficult and later stages encompass earlier ones (e.g. if you can write, you can also read and speak a language).
+Most books also recommend adjusting your goals as necessary (e.g. if you can't travel to your country as often as planned, you might need to aim lower).
+
+I feel that if the kids can have a conversation with their Hungarian family in Hungarian, enjoy movies in Hungarian (for all that comedy), that would make me very happy.
+Still I don't want to set a strict goal, as I don't want the language learning to be burden for the kids. 
+So I'll do my best initially, and then work from there with the children themselves.
+
+## Books
+
+I read a few books on raising bilingual kids, and my favorite one was [The Bilingual Family by Edith Harding-Esch, Philip Riley](https://www.amazon.co.jp/-/en/dp/0521004640).
+This book goes through the academic literature on the topic, debunks common myths and generally provides a well-rounded overview of research in the area.
+Then it describes the stories of multiple families raising bilingual kids.
+The book is very European-centric (the authors both live there, as well as most families appearing in the book), which I personally prefer over some of the other, more US-focused books.
