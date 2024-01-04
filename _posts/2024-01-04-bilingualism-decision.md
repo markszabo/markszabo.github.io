@@ -117,4 +117,4 @@ So I'll do my best initially, and then work from there with the children themsel
 I read a few books on raising bilingual kids, and my favorite one was [The Bilingual Family by Edith Harding-Esch, Philip Riley](https://www.amazon.co.jp/-/en/dp/0521004640).
 This book goes through the academic literature on the topic, debunks common myths and generally provides a well-rounded overview of research in the area.
 Then it describes the stories of multiple families raising bilingual kids.
-The book is very European heavy (the authors both live there, as well as most families appearing in the book), which I personally prefer over some of the other, very US-focused books.
+The book is very European-centric (the authors both live there, as well as most families appearing in the book), which I personally prefer over some of the other, more US-focused books.
