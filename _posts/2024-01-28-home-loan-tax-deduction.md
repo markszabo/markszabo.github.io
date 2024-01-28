@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home loan tax deduction in Japan (as of 2024)
+title: Home loan tax deductions in Japan (as of 2024)
 tags: money japan
 ---
 
