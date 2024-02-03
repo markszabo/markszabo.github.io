@@ -85,4 +85,20 @@ In principle (quotes are translations of [this page](https://www.nta.go.jp/taxes
 There is a significant overlap between what health insurance covers in Japan (generally: treatment for a medical issue) and what can be included here, however there are additional expenses that are included in the tax deduction but not in the insurance.
 NTA has [a long FAQ](https://www.nta.go.jp/law/shitsugi/shotoku/01.htm#b-11) on their site that aims to address most of these, so I'll list some of them that I found interesting.
 
-1. 
+* [Massage is included](https://www.nta.go.jp/law/shitsugi/shotoku/05/06.htm), but only if it's for treatment of a medical condition
+* Medically not necessary cosmetic surgeries and dental procedures are not included, e.g. [birthmark removal](https://www.nta.go.jp/law/shitsugi/shotoku/05/35.htm) and [cosmetic teeth straightening](https://www.nta.go.jp/law/shitsugi/shotoku/05/08.htm)
+* However dental treatment [using gold or porcelain is included](https://www.nta.go.jp/law/shitsugi/shotoku/05/07.htm) even though these are not covered by insurance (insurance only covers the basic materials), as long as the price is inline with general procedures
+* Another thing that's not covered by insurance, but included in this is [the cost of regular check-ups of pregnant women](https://www.nta.go.jp/law/shitsugi/shotoku/05/10.htm)
+    * [Infertility treatment and the cost of artificial insemination is also included](https://www.nta.go.jp/law/shitsugi/shotoku/05/37.htm)
+    * [Cost of abortion is also included](https://www.nta.go.jp/law/shitsugi/shotoku/05/36.htm)
+    * However attending a [course on breathing techniques to reduce the pain of labor is excluded](https://www.nta.go.jp/law/shitsugi/shotoku/05/11.htm)
+* [Food purchased to follow a diet based on a  doctor's instructions is excluded](https://www.nta.go.jp/law/shitsugi/shotoku/05/13.htm)
+* The same way [just because the doctor recommends to go to an onsen, it's still excluded](https://www.nta.go.jp/law/shitsugi/shotoku/05/52.htm)
+* Similarly [the cost of an air purifier is also excluded, regardless if the doctor recommended it](https://www.nta.go.jp/law/shitsugi/shotoku/05/23.htm)
+* [Gifts for doctors and nurses is also excluded](https://www.nta.go.jp/law/shitsugi/shotoku/05/40.htm)
+* [Cost of travel to the hospital by public transport is included, but not if you go by your own car](https://www.nta.go.jp/law/shitsugi/shotoku/05/50.htm).
+    * [Cost of taxi can be included, if taxi was necessary](https://www.nta.go.jp/law/shitsugi/shotoku/05/21.htm).
+    * [However cost to travel to one's hometown before childbirth (common practice to give birth close to one's parents so that they can help with the new-born) is excluded](https://www.nta.go.jp/law/shitsugi/shotoku/05/19.htm)
+
+* [Medical check-ups are excluded](https://www.nta.go.jp/law/shitsugi/shotoku/05/09.htm) unless they find a serious disease and directly lead to a treatment
+* 
