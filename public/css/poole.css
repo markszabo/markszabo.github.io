@@ -228,8 +228,8 @@ blockquote p:last-child {
 }
 
 img {
-  display: block;
   max-width: 100%;
+  max-height: 40em;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
