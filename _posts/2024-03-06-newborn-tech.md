@@ -34,3 +34,10 @@ It detects if the baby's face is covered and send a notification to the phone. H
 
 What works really well though is the night vision (even in pitch black room the camera feed is fully visible, although in black and white), the ability to go check the history and export 2 minutes of video from the past. Also the camera works with Google Home, so we can put the camera feed on our Nest Hub
 
+# Smart speaker
+
+For music
+
+# Thermometers
+
+TODO
