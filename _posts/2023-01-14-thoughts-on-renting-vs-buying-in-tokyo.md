@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts on renting vs buying in Tokyo
-tags: japan money
+tags: japan money housing
 ---
 
 Recently I've been thinking a lot about buying either a house or an apartment (mansion), or whether renting makes more sense for now. 
