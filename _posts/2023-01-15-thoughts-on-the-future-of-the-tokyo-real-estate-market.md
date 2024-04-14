@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts on the future of the real estate market of Tokyo
-tags: japan money
+tags: japan money housing
 ---
 
 *This is a continuation of [my previous post on buying vs renting in Tokyo](2023-01-15-thoughts-on-renting-vs-buying-in-tokyo.md)*
