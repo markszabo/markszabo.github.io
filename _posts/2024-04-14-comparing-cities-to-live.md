@@ -101,6 +101,52 @@ All 3 cities send around the same percentage to university (with Koganei being s
 
 # City budget
 
+The Ministry of Internal Affairs and Communications publishes a set of massive Excel spreadsheet that contain the budget (income, spending, source of both) for all municipalities of Japan (each city being a line of the table).
+
+At the time of my research, their [latest data](https://www.soumu.go.jp/iken/zaisei/r03_shichouson.html) was from 2021, so that's what I'm using here. The data is using thousand yen (千円) as the unit, so I'll be using that here too.
+
+The table also includes population for each city, and I'm using that for the per resident calculations (since the dat of this data is different from the data earlier, this is slightly different than above).
+
+## General budget
+
+Source: [都市別 概況](https://www.soumu.go.jp/iken/zaisei/r03_shichouson.html).
+
+|           | Musashino | Mitaka | Koganei | 
+| --------- | --------- | ------ | ------- |
+| Population      | 148,025      | 190,590      | 124,617      |
+| Income          | 80,799,412千円 | 80,516,306千円 | 53,583,172千円 |
+| \- per resident | 545.85千円     | 422.46千円     | 429.98千円     |
+| Expenses        | 76,957,203千円 | 78,311,614千円 | 51,719,510千円 |
+| \- per resident | 519.89千円     | 410.89千円     | 415.03千円     |
+
+All 3 cities run a healthy budget (spending less than their income). Mitaka and Koganei works with similar per resident income and spending, while Musashino earns and spends 25-30% more than the others (per resident).
+
+## Income source
+
+The income source is also published for each city, so I'll pick some numbers from this
+
+Source: [都市別 歳入内訳](https://www.soumu.go.jp/iken/zaisei/r03_shichouson.html)
+
+|           | Musashino | Mitaka | Koganei | 
+| --------- | --------- | ------ | ------- |
+| **tax**                                 | 39,928,376千円 | 38,398,512千円 | 21,986,121千円 |
+| \- % of overall                           | 49.42%       | 47.69%       | 41.03%       |
+| \- per resident                           | 269.74千円     | 201.47千円     | 176.43千円     |
+| \- (within tax): residence tax                          | 18,132,872千円 | 18,348,371千円 | 11,176,817千円 |
+| \-- per resident                          | 122.50千円     | 96.27千円      | 89.69千円      |
+| \- (within tax): business tax                           | 2,556,045千円  | 1,472,492千円  | 590,996千円    |
+| \-- per resident                          | 17.27千円      | 7.73千円       | 4.74千円       |
+| \- (within tax): real estate tax                        | 16,352,346千円 | 14,541,109千円 | 7,733,616千円  |
+| \-- per resident                          | 110.47千円     | 76.30千円      | 62.06千円      |
+|  **National treasury disbursements** (国庫支出金) - <br> [money from the national government for specific projects](https://www.city.mitaka.lg.jp/c_faq/062/062663.html) | 14,774,575千円 | 18,949,625千円 | 13,793,957千円 |
+| \- % of overall                           | 18.29%       | 23.54%       | 25.74%       |
+| \- per resident                           | 99.81千円      | 99.43千円      | 110.69千円     |
+| **Prefectural disbursements** (都道府県支出金) - <br> general money from the prefecture | 8,337,069千円  | 10,170,974千円 | 8,037,565千円  |
+| \- % of overall                           | 10.32%       | 12.63%       | 15.00%       |
+| \- per resident                           | 56.32千円      | 53.37千円      | 64.50千円      |
+
+
+
 |           | All of Tokyo prefecture | Musashino | Mitaka | Koganei | 
 | --------- | --------- | --------- | ------ | ------- |
 |  |  |  |  |  |
