@@ -130,20 +130,59 @@ Source: [都市別 歳入内訳](https://www.soumu.go.jp/iken/zaisei/r03_shichou
 |           | Musashino | Mitaka | Koganei | 
 | --------- | --------- | ------ | ------- |
 | **tax**                                 | 39,928,376千円 | 38,398,512千円 | 21,986,121千円 |
-| \- % of overall                           | 49.42%       | 47.69%       | 41.03%       |
+| \- % of overall income                    | 49.42%       | 47.69%       | 41.03%       |
 | \- per resident                           | 269.74千円     | 201.47千円     | 176.43千円     |
-| \- (within tax): residence tax                          | 18,132,872千円 | 18,348,371千円 | 11,176,817千円 |
+| \- (within tax): residence tax(市町村民税個人分) | 18,132,872千円 | 18,348,371千円 | 11,176,817千円 |
 | \-- per resident                          | 122.50千円     | 96.27千円      | 89.69千円      |
-| \- (within tax): business tax                           | 2,556,045千円  | 1,472,492千円  | 590,996千円    |
+| \- (within tax): [business tax(市町村民税法人分)](https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/149767_04.html) | 2,556,045千円  | 1,472,492千円  | 590,996千円    |
 | \-- per resident                          | 17.27千円      | 7.73千円       | 4.74千円       |
-| \- (within tax): real estate tax                        | 16,352,346千円 | 14,541,109千円 | 7,733,616千円  |
+| \- (within tax): real estate tax (固定資産税) | 16,352,346千円 | 14,541,109千円 | 7,733,616千円  |
 | \-- per resident                          | 110.47千円     | 76.30千円      | 62.06千円      |
-|  **National treasury disbursements** (国庫支出金) - <br> [money from the national government for specific projects](https://www.city.mitaka.lg.jp/c_faq/062/062663.html) | 14,774,575千円 | 18,949,625千円 | 13,793,957千円 |
-| \- % of overall                           | 18.29%       | 23.54%       | 25.74%       |
+|  **National treasury disbursements** <br>(国庫支出金) -[money from the national <br> government for specific projects](https://www.city.mitaka.lg.jp/c_faq/062/062663.html) | 14,774,575千円 | 18,949,625千円 | 13,793,957千円 |
+| \- % of overall income                    | 18.29%       | 23.54%       | 25.74%       |
 | \- per resident                           | 99.81千円      | 99.43千円      | 110.69千円     |
-| **Prefectural disbursements** (都道府県支出金) - <br> general money from the prefecture | 8,337,069千円  | 10,170,974千円 | 8,037,565千円  |
-| \- % of overall                           | 10.32%       | 12.63%       | 15.00%       |
+| **Prefectural disbursements** <br>(都道府県支出金) - general money from <br> the prefecture | 8,337,069千円  | 10,170,974千円 | 8,037,565千円  |
+| \- % of overall income                    | 10.32%       | 12.63%       | 15.00%       |
 | \- per resident                           | 56.32千円      | 53.37千円      | 64.50千円      |
+
+This shows that Musashino and Mitaka receive similar amounts (per resident) from the central and prefectural governments, while Koganei collects 13% less from taxes than Mitaka (on a per resident basis), but they make up for it by receiving more from the central and prefectural governments leading to a similar budget in the end. This can make Koganei riskier in the long term than Mitaka (independently their current similar budgets), as with the aging population the central and prefectural governments might have less money in the future.
+
+Looking at the tax explains why Musashino's budget is more than the other two cities: they get almost 34% more from taxes (per resident) than Mitaka and 52% more than Koganei. This comes from all types of taxes:
+* residence tax (27% and 36% more than Mitaka and Koganei): the proportion of the working age population of all 3 cities is almost identical, and since the residence tax is a flat 6%, this means that the average salary in Musashino is 27% and 36% higher than Mitaka and Koganei respectively.
+* Musashino's per resident business tax income is more than double of Mitaka's and 3.6x more than Koganei, indicating that they have more companies. I didn't go into details on how this tax is calculated, but my guess is that this is mainly due to Kichijoji's shopping district which attracts huge crowds every weekend
+* similarly the real estate tax income is the highest in Musashino, might guess again being that Kichijoji's land values are through the roof (partially due to all the shops, but also due to all the rich people having their house there)
+
+## Expenses
+
+Data is also published on how the cities spend their money. 目的別歳出内訳 shows the purpose of the spending (e.g. welfare, education) and 性質別歳出内訳 shows the nature of the spending (e.g. salary). I'll show some numbers from the former about welfare and educational spending.
+
+|           | Musashino | Mitaka | Koganei | 
+| --------- | --------- | ------ | ------- |
+| **public welfare**       | 33,215,646千円 | 41,707,752千円 | 26,697,093千円 |
+| \- % of overall        | 43.16%       | 53.26%       | 51.62%       |
+| \- per resident        | 224.39千円     | 218.83千円     | 214.23千円     |
+| \- child welfare       | 14,863,633千円 | 19,222,396千円 | 14,553,676千円 |
+| \-- per resident        | 100.41千円     | 100.86千円     | 116.79千円     |
+| **educational expenses** | 13,796,513千円 | 7,871,068千円  | 4,276,149千円  |
+| \- % of overall        | 17.93%       | 10.05%       | 8.27%        |
+| \- per resident        | 93.20千円      | 41.30千円      | 34.31千円      |
+| \- general expenses    | 4,934,066千円  | 2,607,578千円  | 850,611千円    |
+| \-- per resident       | 33.33千円      | 13.68千円      | 6.83千円       |
+| \- elementary school   | 1,777,769千円  | 2,031,009千円  | 863,945千円    |
+| \-- per resident       | 12.01千円      | 10.66千円      | 6.93千円       |
+| \- junior high school  | 925,344千円    | 789,519千円    | 482,268千円    |
+| \-- per resident       | 6.25千円       | 4.14千円       | 3.87千円       |
+| \- social education    | 1,780,268千円  | 857,003千円    | 677,956千円    |
+| \-- per resident       | 12.03千円      | 4.50千円       | 5.44千円       |
+| \- sport facilities    | 1,147,760千円  | 593,399千円    | 739,897千円    |
+| \-- per resident       | 7.75千円       | 3.11千円       | 5.94千円       |
+| \- school lunch        | 3,231,306千円  | 992,560千円    | 661,472千円    |
+| \-- per resident       | 21.83千円      | 5.21千円       | 5.31千円       |
+
+Despite Musashino having a higher average income, they still spend to most of welfare among the 3 cities, but the difference is not that significant.
+
+Educational expenses on the other hand show that per resident Musashino spends more than twice of Mitaka and almost 3x of what Koganei spends. This is a huge difference, so I wanted to drill down a bit, but couldn't find a single reason why the difference (having items like "general expenses" also don't really help).
+
 
 
 
