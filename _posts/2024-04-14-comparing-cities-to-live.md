@@ -4,17 +4,19 @@ title: "Comparing cities to live in: Musashino vs Mitaka vs Koganei"
 tags: housing money japan
 ---
 
-We decided to build our own house in Tokyo. We narrowed down our area to the following stations on the Chuo line: Mitaka (Mitaka City), Musashi-sakai (Musashino City), Musashi-Koganei (Koganei City). We also considered Kichijoji, but it was way out of budget (also it gets very crowded on weekends), and Higashi-Koganei (the station between Musashi-sakai and Musashi-Koganei), but currently it lacks the shops and amenities that we got used to living at other stations. It is being actively developed, so it might get there in the next 5-10 years, but it's also between two pretty well developed stations, so chain stores might pass on opening their stores there (e.g. both neighboring stations have Ito-Yokado shopping malls, making it unlikely that there would be one in Higashi-Koganei in the future).
+We decided to build our own house in Tokyo. We narrowed down our area to the following stations on the Chuo line: Mitaka (Mitaka City), Musashi-sakai (Musashino City), Musashi-Koganei (Koganei City). We also considered Kichijoji, but it was way out of budget (also it gets very crowded on weekends), and Higashi-Koganei (the station between Musashi-sakai and Musashi-Koganei), but currently it lacks the shops and amenities that we got used to. It is being actively developed, so it might get there in the next 5-10 years, but it's also between two pretty well developed stations, so chain stores might pass on opening their stores there (e.g. both neighboring stations have Ito-Yokado shopping malls, making it unlikely that there would be one in Higashi-Koganei in the future).
 
-Choosing where to live is one of the truly life-altering decisions, especially for our children (as it affects which school they go to, their friends and their career). While big part of this can't be foreseen, I decided to take a look at the data available to compare these cities. I believe the same data is published for most cities in Japan, so even if you are looking at other places, this post might be able to help you making your own comparisons.
+Choosing where to live is one of the truly life-altering decisions, especially for our children (as it affects which school they go to, their friends and also influences their career). While big part of this can't be foreseen, I decided to take a look at the data available to compare these cities. I believe the same data is published for most cities in Japan, so even if you are looking at other places, this post might be able to help you make your own comparison.
 
 <!--break-->
 
-I tried to use data from around the same time and time period, though it wasn't always possible (some data only gets published a few years late), so I'll indicate which date the data is from.
+I tried to use data from around the same time and time period, though it wasn't always possible (some data only gets published a few years late, or not every year), so I'll indicate which date the data is from.
+
+*Disclosure:* when I originally collected most of this data we were still looking for a land in all these places, but by the time of writing this post we are in the middle of buying a land in Musashino. This won't change the numbers (those are all from the linked sources), but might affect my interpretation due to [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) (we made our choice and I want to believe we made the right choice). So take any positive opinion of Musashino with a grain of salt.
 
 # Population
 
-Most metrics only really make sense on a per resident basis (e.g. city budget, number of schools), so it's important to start with that.
+Most metrics only really make sense on a per resident basis (e.g. city budget, number of schools), so it's important to start with the population.
 
 **Population (2023. December)** Source: [住民基本台帳による世帯と人口：毎月](https://www.toukei.metro.tokyo.lg.jp/juukim/2023/jm23010000.htm)
 
@@ -22,11 +24,11 @@ Most metrics only really make sense on a per resident basis (e.g. city budget, n
 | --------- | --------- | ------ | ------- |
 | Population | 147,851 | 190,071 | 124,721 |
 | Households | 78,685 | 96,814 | 62,937 |
-| Household size (person per household) | 1.88 | 1.96 | 1.98 |
+| Household size<br>(person per household) | 1.88 | 1.96 | 1.98 |
 
 ## Age groups
 
-With Japan being an aging society, it's a good data point to know how many kids vs elderly live in a given city, as this will influence policies (which group the city should spend money on supporting), but also what types of shops open in the area.
+With Japan being a [super-aging society](https://www.jetro.go.jp/ext_images/_News/en/2021/japansession-statistics.pdf), it's a good data point to know how many kids, adults, and elderly live in a given city, as this will influence policies (which group the city should support), but also what types of shops open in the area.
 
 **Population per age group (2024. January)** Source: [区市町村、年齢3区分別人口（人口総数）](https://www.toukei.metro.tokyo.lg.jp/juukiy/2024/jy24000001.htm)
 
@@ -36,7 +38,7 @@ With Japan being an aging society, it's a good data point to know how many kids 
 | 15-64 year olds | 66.33% (9,227,915) | 65.69% (97,090) | 65.60% (124,610) | 65.86% (82,071) |
 | Above 65 years | 22.59% (3,143,256) | 22.56% (33,346) | 22.09% (41,967) | 21.56% (26,861) |
 
-Overall all 3 cities are with a 1% range, so this is essentially the same for all of them.
+Overall all 3 cities are almost identical in this regard.
 
 ## Foreign population
 
@@ -56,7 +58,41 @@ Being from Europe, my kids will not look 100% Japanese, so knowing how much they
 
 Overall Musashino and Mitaka are pretty similar in this regard. Koganei has slightly more foreigners, but a higher percentage of them come from Asian countries. This might be due to many universities being in and around Koganei, and it's being the cheapest out of the 3 cities (so international students from Asian countries might prefer living there). But this is just my guess, overall the numbers are close enough that I don't think this would result in any meaningful impact on our daily life.
 
-**Sidenote**: since the statistics include per country breakdown, I also checked how many other Hungarians live in each city. Musashino: 1, Mitaka: 5 (I'm one from this), Koganei: 0. (In the entire Tokyo prefecture there are 254 Hungarians, but 211 of them (83%) live within the 23 special wards of Tokyo.)
+**Sidenote**: since the statistics include per country breakdown, I also checked how many other Hungarians live in each city. Musashino: 1, Mitaka: 5 (I'm one from this), Koganei: 0. (In the entire Tokyo prefecture there are 254 Hungarians, but 211 of them (83%) live within the 23 Special Wards of Tokyo.)
+
+## Daytime population
+
+People often commute for work or school, so the people living in a city (night time population) and the people being there during the day (daytime population) can look different. Tokyo does a census on this every 5 year, I'll be using the numbers from [the 2020 census](https://www.toukei.metro.tokyo.lg.jp/tyukanj/2020/tj-20index.htm).
+
+Apart from the number of people in the city during the day, the census also shows the number of people commuting for work (通勤者) and for school (通学者). (The census notes that this doesn't include the entire daytime population, as some people don't work or study, and also the census doesn't have data on what everyone does.) Moreover the census includes information on the flow of people too, e.g. some people living in the city will leave for work, while others will enter for work, so just the number of workers in the city during the day alone won't show the full picture.
+
+**Daytime, nighttime population and daily flow of people (2020)** Source: [令和2年国勢調査による 東京都の昼間人口（従業地・通学地による人口）](https://www.toukei.metro.tokyo.lg.jp/tyukanj/2020/tj-20index.htm)
+
+|                                                   | Musashino | Mitaka   | Koganei  |
+| ------------------------------------------------- | --------- | -------- | -------- |
+| Nighttime population<br>(residents of the city) 常住人口 | 150,149   | 195,391  | 126,074  |
+| Daytime population 昼間人口                           | 162,221   | 175,413  | 110,012  |
+| \- compared to residents                          | 8.04%     | \-10.22% | \-12.74% |
+| Resident workers (workers<br>living there)常住就業者     | 64,433    | 82,769   | 54,114   |
+| Daytime workers 昼間就業者                             | 69,408    | 63,348   | 33,399   |
+| \- compared to resident workers                   | 7.72%     | \-23.46% | \-38.28% |
+| Workers leaving 流出通勤者                             | 41,511    | 52,685   | 37,590   |
+| \- compared to resident workers                   | 64.43%    | 63.65%   | 69.46%   |
+| Workers entering 流入通勤者                            | 46,486    | 33,264   | 16,875   |
+| \- compared to resident workers                   | 72.15%    | 40.19%   | 31.18%   |
+| Resident students (students<br>living there) 常住通学者   | 15,622    | 22,206   | 14,067   |
+| Daytime students 昼間通学者                            | 22,719    | 21,649   | 18,720   |
+| \- compared to resident students                  | 45.43%    | \-2.51%  | 33.08%   |
+| Students leaving 流出通学者                            | 5,575     | 7,174    | 4,821    |
+| \- compared to resident students                  | 35.69%    | 32.31%   | 34.27%   |
+| Students entering 流入通学者                           | 12,672    | 6,617    | 9,474    |
+| \- compared to resident students                  | 81.12%    | 29.80%   | 67.35%   |
+
+Mitaka and Koganei both looses ~10% of their population during the day, while Musashino gains 8%. As all 3 cities are residential, Musashino's increased daytime population might be due to Kichijoji being a popular shopping destination.
+
+63% of workers living in Mitaka leave during the day, and only 2/3 of this much enters. Koganei is even starker: 70% of workers leave during the day, and only less than half of this many enters. Musashino's workers also leave in comparable numbers (64%), but they have more workers entering during the day. Since workers include people working in factories and offices in the city, but also people working in retail and hospitality (shops, restaurants, bars), this can be again due to Kichijoji (even if the people go there for shopping, the shops and restaurants need staff who will be counted as workers). It's also interesting to see that while Musashino seem to have more work opportunities, people still prefer to leave the city in the same proportions as residents of the two other cities, and the jobs are taken up by people commuting into the city. This could mean that those jobs don't pay enough to let people afford living there.
+
+When it comes to students, both Musashino and Koganei attracts many students increasing their student population by 45% and 33% respectively, while Mitaka looses 2.5% of the number of their students. This difference almost entirely comes from students entering the cities, as all 3 cities have around 33% of their students leave the city during the day, but Musashino and Koganei simply has more students commuting there. Even though all three cities have many high schools and universities ([Musashino](https://en.wikipedia.org/wiki/Musashino,_Tokyo#Education), [Mitaka](https://en.wikipedia.org/wiki/Mitaka,_Tokyo#Education), [Koganei](https://en.wikipedia.org/wiki/Koganei,_Tokyo#Education)), it seems that students just don't go to Mitaka: if we look at the ratio of daytime students per residents we get 15.13% for Musashino, 11.08% for Mitaka and 14.85% for Koganei (as we have seen earlier, all 3 cities have a similar proportion of young people, so there are simply less students choosing to commute to Mitaka). Overall this is likely not an issue for living in Mitaka though, as many kids commute for junior high and high school anyway, and all 3 cities are very close (it's a 13 minute train ride back to back from Kichijoji to Musashi-Koganei).
 
 # Education
 
@@ -72,9 +108,9 @@ Education is one area where cities can differ, so I took an extra look into the 
 | Teacher per class | 1.64 | 1.61 | 1.55 |
 | Teacher per class in public schools | 1.59 | 1.60 | 1.56 |
 
-Musashino has more than twice as many kids in non-public (private, international) elementary school as the other cities. This can mean that the public schools are of lower quality, or that the parents have more money and thus more options. The teacher per class numbers are very similar, with Koganei being slightly lower, which can mean that the quality is lower, or that the number of kids is growing faster than how they can hire teachers.
+Musashino has more than twice as many kids in non-public (private, international) elementary school as the other cities. This can mean that the public schools are of lower quality, or that the parents have more money and thus more options. The teacher per class numbers are very similar, with Koganei being slightly lower, which can mean that the quality is lower, or that the number of kids is growing faster than the rate they can hire teachers.
 
-Overall I don't think any of this indicates a significant difference in the expected daily life.
+Overall I don't think any of this indicates a significant difference in the quality of education.
 
 Schooling in Japan is [mandatory until the end of junior high school (15 years of age)](https://education.jnto.go.jp/en/school-in-japan/japanese-education-system/#:~:text=Compulsory%20education%20lasts%20for%209%20years%20through%20elementary%20and%20junior%20high%20school), so let's see what kids do after that:
 
@@ -87,7 +123,7 @@ Schooling in Japan is [mandatory until the end of junior high school (15 years o
 
 (Numbers don't add up to 100% as some doesn't continue their education.)
 
-Overall Musashino and Mitaka is almost identical, while Koganei has a slightly higher percentage going to vocational school. But the sample size is so small, that it's hard to make any conclusions. It is very likely that in either city our kids' classmates will mostly continue to high school.
+Overall Musashino and Mitaka is almost identical, while Koganei has a slightly higher percentage going to vocational school. But the sample size is so small, that it's hard to make any conclusions. It is very likely that in either city our kids' classmates would mostly continue to high school.
 
 **What students do after graduating high school** (Data from the 2023 graduations)
 
@@ -101,11 +137,11 @@ All 3 cities send around the same percentage to university (with Koganei being s
 
 # City budget
 
-The Ministry of Internal Affairs and Communications publishes a set of massive Excel spreadsheet that contain the budget (income, spending, source of both) for all municipalities of Japan (each city being a line of the table).
+The Ministry of Internal Affairs and Communications publishes a set of massive Excel spreadsheets that contain the budget (income, spending, source of both) for all municipalities of Japan (each city being a line in the table).
 
-At the time of my research, their [latest data](https://www.soumu.go.jp/iken/zaisei/r03_shichouson.html) was from 2021, so that's what I'm using here. The data is using thousand yen (千円) as the unit, so I'll be using that here too.
+At the time of my research, their [latest data](https://www.soumu.go.jp/iken/zaisei/r03_shichouson.html) was from 2021, so that's what I'm using here. The data is using thousand yen (千円) as the unit, so I'll be using that to display the numbers.
 
-The table also includes population for each city, and I'm using that for the per resident calculations (since the dat of this data is different from the data earlier, this is slightly different than above).
+The table also includes population for each city, and I'm using that for the per resident calculations (since the date of this data is different from the data earlier, this is slightly different than above).
 
 ## General budget
 
@@ -123,7 +159,7 @@ All 3 cities run a healthy budget (spending less than their income). Mitaka and 
 
 ## Income source
 
-The income source is also published for each city, so I'll pick some numbers from this
+The income source is also published for each city, so I'll pick some numbers from this.
 
 Source: [都市別 歳入内訳](https://www.soumu.go.jp/iken/zaisei/r03_shichouson.html)
 
@@ -145,16 +181,16 @@ Source: [都市別 歳入内訳](https://www.soumu.go.jp/iken/zaisei/r03_shichou
 | \- % of overall income                    | 10.32%       | 12.63%       | 15.00%       |
 | \- per resident                           | 56.32千円      | 53.37千円      | 64.50千円      |
 
-This shows that Musashino and Mitaka receive similar amounts (per resident) from the central and prefectural governments, while Koganei collects 13% less from taxes than Mitaka (on a per resident basis), but they make up for it by receiving more from the central and prefectural governments leading to a similar budget in the end. This can make Koganei riskier in the long term than Mitaka (independently their current similar budgets), as with the aging population the central and prefectural governments might have less money in the future.
+This shows that Musashino and Mitaka receive similar amounts (per resident) from the central and prefectural governments, while Koganei collects 13% less from taxes than Mitaka (on a per resident basis), but they make up for it by receiving more from the central and prefectural governments leading to a similar budget in the end. This can make Koganei riskier in the long term than Mitaka (regardless their current similar budgets), as with the aging population the central and prefectural governments might have less money in the future.
 
 Looking at the tax explains why Musashino's budget is more than the other two cities: they get almost 34% more from taxes (per resident) than Mitaka and 52% more than Koganei. This comes from all types of taxes:
-* residence tax (27% and 36% more than Mitaka and Koganei): the proportion of the working age population of all 3 cities is almost identical, and since the residence tax is a flat 6%, this means that the average salary in Musashino is 27% and 36% higher than Mitaka and Koganei respectively.
+* residence tax (27% and 36% more than Mitaka and Koganei): the proportion of the working age population of all 3 cities is almost identical, and since the residence tax is a flat 6%, this means that the average salary in Musashino is 27% and 36% higher than Mitaka and Koganei respectively (assuming a similar percentage of working age people working).
 * Musashino's per resident business tax income is more than double of Mitaka's and 3.6x more than Koganei, indicating that they have more companies. I didn't go into details on how this tax is calculated, but my guess is that this is mainly due to Kichijoji's shopping district which attracts huge crowds every weekend
-* similarly the real estate tax income is the highest in Musashino, might guess again being that Kichijoji's land values are through the roof (partially due to all the shops, but also due to all the rich people having their house there)
+* similarly the real estate tax income is the highest in Musashino, my guess again being that Kichijoji's land values are through the roof (partially due to all the shops, but also due to all the rich people having their house there) resulting in a higher real estate tax revenue (my understanding is that real estate tax is a fixed % of the assessed land and building value, so it being higher means that the value of real estate is higher)
 
 ## Expenses
 
-Data is also published on how the cities spend their money. 目的別歳出内訳 shows the purpose of the spending (e.g. welfare, education) and 性質別歳出内訳 shows the nature of the spending (e.g. salary). I'll show some numbers from the former about welfare and educational spending.
+Data is also published on how the cities spend their money. [目的別歳出内訳](https://www.soumu.go.jp/iken/zaisei/r03_shichouson.html) shows the purpose of the spending (e.g. welfare, education) and [性質別歳出内訳](https://www.soumu.go.jp/iken/zaisei/r03_shichouson.html) shows the nature of the spending (e.g. salary). I'll show some numbers from the former about welfare and educational spending.
 
 |           | Musashino | Mitaka | Koganei | 
 | --------- | --------- | ------ | ------- |
@@ -179,36 +215,32 @@ Data is also published on how the cities spend their money. 目的別歳出内�
 | \- school lunch        | 3,231,306千円  | 992,560千円    | 661,472千円    |
 | \-- per resident       | 21.83千円      | 5.21千円       | 5.31千円       |
 
-Despite Musashino having a higher average income, they still spend to most of welfare among the 3 cities, but the difference is not that significant.
+Despite Musashino having a higher average income, they still spend to most on welfare among the 3 cities, but the difference is not that significant.
 
-Educational expenses on the other hand show that per resident Musashino spends more than twice of Mitaka and almost 3x of what Koganei spends. This is a huge difference, so I wanted to drill down a bit, but couldn't find a single reason why the difference (having items like "general expenses" also don't really help).
+Educational expenses on the other hand show that per resident Musashino spends more than twice of Mitaka and almost 3x of Koganei. This is a huge difference, so I wanted to drill down a bit, but couldn't find a single reason why the difference (having items like "general expenses" also don't really help). 
 
+Spending 4x as much as the other cities on school lunches is also interesting, as I expected that this would make school lunches free in Musashino, but the price students need to pay seem to be the same in all three cities. [Musashino says on their website](https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/sho_chugakko/kyushoku/1007035.html#:~:text=%E7%B5%A6%E9%A3%9F%E8%B2%BB%E3%81%AF%E3%80%81%E3%81%99%E3%81%B9%E3%81%A6%E9%A3%9F%E6%9D%90%E8%B2%BB%E3%81%AB%E5%85%85%E3%81%A6%E3%82%89%E3%82%8C%E3%80%81%E9%A3%9F%E6%9D%90%E8%B2%BB%E4%BB%A5%E5%A4%96%E3%81%AE%E5%85%89%E7%86%B1%E6%B0%B4%E8%B2%BB%E3%80%81%E8%AA%BF%E7%90%86%E5%93%A1%E3%81%AE%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%80%81%E8%A8%AD%E5%82%99%E6%95%B4%E5%82%99%E8%B2%BB%E7%AD%89%E3%81%AF%E5%B8%82%E3%81%8C%E8%B2%A0%E6%8B%85%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82) that the price of school lunches is used to cover the costs of ingredients, and the city pays for staff, utilities, and maintenance.
 
+So I decided to look into other years to see if this was just an outlier year (e.g. due to some one-time big purchase like buying land for a new building, or organizing some national competition), or if this is a persistent trend.
 
+Spending on eduction for 2019 ([source](https://www.soumu.go.jp/iken/zaisei/r01_shichouson.html)), 2020 ([source](https://www.soumu.go.jp/iken/zaisei/r02_shichouson.html)), 2021 (as above), 2022 ([source](https://www.soumu.go.jp/iken/zaisei/r04_shichouson.html)), using 2021 population numbers for the per resident spending:
 
-|           | All of Tokyo prefecture | Musashino | Mitaka | Koganei | 
-| --------- | --------- | --------- | ------ | ------- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Educational expenses | Musashino    | Mitaka      | Koganei     |
+| -------------------- | ------------ | ----------- | ----------- |
+| 2019                 | 9,673,062千円  | 7,981,140千円 | 3,640,677千円 |
+| \- per resident      | 65.35千円      | 41.88千円     | 29.21千円     |
+| 2020                 | 10,036,056千円 | 8,182,037千円 | 4,695,724千円 |
+| \- per resident      | 67.80千円      | 42.93千円     | 37.68千円     |
+| 2021                 | 13,796,513千円 | 7,871,068千円 | 4,276,149千円 |
+| \- per resident      | 93.20千円      | 41.30千円     | 34.31千円     |
+| 2022                 | 12,127,456千円 | 8,656,292千円 | 3,987,496千円 |
+| \- per resident      | 81.93千円      | 45.42千円     | 32.00千円     |
+| 4 year's average (per resident) | 77.07千円      | 42.88千円     | 33.30千円     |
 
+So Musashino seems to be consistently spending more than the other 2 cities, but 2021 was an outlier even for them. In the 4 year average they are spending 80% more than Mitaka and 2.3x as much as Koganei.
 
-|           | All of Tokyo prefecture | Musashino | Mitaka | Koganei | 
-| --------- | --------- | --------- | ------ | ------- |
-|  |  |  |  |  |
+# Conclusion
 
+It was interesting to see that in some metrics these 3 cities are almost identical, and in others they show big differences. It has also been fun to try to guess what might be behind the difference in numbers. 
 
-|           | All of Tokyo prefecture | Musashino | Mitaka | Koganei | 
-| --------- | --------- | --------- | ------ | ------- |
-|  |  |  |  |  |
-
-
-
-|           | Musashino | Mitaka | Koganei | 
-| --------- | --------- | ------ | ------- |
-| |  | | |
-
-|           | Musashino | Mitaka | Koganei | 
-| --------- | --------- | ------ | ------- |
-| |  | | |
+Overall I believe all 3 cities are very similar in most meaningful metrics. Musashino having a higher budget, and especially spending more on education is definitely a plus, but I can't say that this makes the other cities bad options.
