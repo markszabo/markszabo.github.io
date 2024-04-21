@@ -135,6 +135,62 @@ Overall Musashino and Mitaka is almost identical, while Koganei has a slightly h
 
 All 3 cities send around the same percentage to university (with Koganei being slightly higher, but that might be due to more student going to vocational school already after junior high school). At the end of the day, this again means that in either city our kids' classmates would mostly go to university.
 
+# Car ownership
+
+In central Tokyo most people don't use cars everyday, while on the countryside people tend to drive more often. So looking at the number of cars in a city can tell us about how it feels to live there (e.g. more cars likely mean more traffic, but also shops and restaurants will have parking lots).
+
+The [Kanto District Transport Bureau publishes car ownership numbers](https://wwwtb.mlit.go.jp/kanto/jidou_gian/toukei/tiiki_betu.html) in March every year, and I'm using [the latest data from March 2023](https://wwwtb.mlit.go.jp/kanto/content/000294688.pdf). For the number of households, I'm using the March 2023 data from the [Statistics of Tokyo website](https://www.toukei.metro.tokyo.lg.jp/juukim/2023/jm23010000.htm).
+
+The data has multiple car categories, and here is ChatGPT's explanation of each category:
+
+* **貨物計 (Kamotsu-kei)** - This refers to **cargo vehicles**, encompassing all vehicles primarily used for transporting goods. This category includes various sizes of trucks and freight vehicles.
+* **乗合計 (Noriai-kei)** - This category covers **public transport vehicles** or vehicles used for mass transportation of passengers, such as buses and coaches.
+* **乗用計 (Jōyō-kei)** - This term refers to **passenger cars**, which are vehicles used primarily for personal transport of passengers. It generally includes sedans, hatchbacks, SUVs, etc.
+* **特種(殊)計 (Tokushu-kei)** - This category is for **special purpose vehicles**, which are designed for specific functions other than just transporting goods or people. This can include vehicles like ambulances, fire trucks, construction vehicles, etc.
+* **登録車計 (Tōroku-sha-kei)** - This translates to **registered vehicles total**. It is a summative category that typically includes all motor vehicles that are officially registered, likely excluding those that do not require registration such as certain small or specialized vehicles.
+* **小型二輪 (Kogata nirin)** - This refers to **small two-wheeled vehicles**, such as motorcycles and scooters. These are typically smaller bikes that fall under a certain engine size or power output.
+* **合計 (Gōkei)** - This simply means total and sums up all the categories listed above.
+
+For each of these, there are 2 numbers published (again ChatGPT's explanation):
+
+* **自家用 (Jikayō)** - This term means **private use**. It refers to vehicles used for personal, non-commercial purposes. These are typically cars, motorcycles, or other vehicles owned by individuals for personal or family use.
+* **事業用 (Jigyōyō)** - This term stands for **business use**. It includes vehicles used for commercial purposes, such as company cars, delivery trucks, taxis, buses operated by transport companies, and other vehicles used in the course of conducting business or providing services.
+
+Passenger cars (乗用計) make up more than 90% of private cars, so I'm only looking at that number. For business use I'm looking at all numbers, as those can tell us about the  type of businesses that are registered in each city.
+
+|                                                   | All of Tokyo pref | Musashino | Mitaka | Koganei |
+| ------------------------------------------------- | ----------------- | --------- | ------ | ------- |
+| Number of households                              | 7,451,160         | 78,261    | 96,135 | 62,617  |
+| Total number of cars                              | 3,074,602         | 26,744    | 40,786 | 24,741  |
+| \- Per 100 households                             | 41.3              | 34.2      | 42.4   | 39.5    |
+| Personal cars (自家用特種(殊)計)                         | 2,917,997         | 25,837    | 38,188 | 24,386  |
+| \- Per 100 households                             | 39.2              | 33.0      | 39.7   | 38.9    |
+| \- Personal passenger cars (自家用乗用計)               | 2,545,220         | 23,956    | 34,777 | 22,773  |
+| \-- Compared to all personal cars                 | 87.22%            | 92.72%    | 91.07% | 93.39%  |
+| Personal motorcycles (自家用小型二輪)                    | 184,152           | 1,363     | 2,581  | 1,367   |
+| \- Per 100 households                             | 2.47              | 1.74      | 2.68   | 2.18    |
+| Corporate cars (事業用登録車計)                          | 156,605           | 907       | 2,598  | 355     |
+| \- Per 100 households                             | 2.10              | 1.16      | 2.70   | 0.57    |
+| \- Compared to all cars                           | 5.09%             | 3.39%     | 6.37%  | 1.43%   |
+| \- Corporate cargo vehicles (事業用貨物計)              | 79,972            | 83        | 625    | 101     |
+| \-- Compared to all corporate cars                | 51.07%            | 9.15%     | 24.06% | 28.45%  |
+| \- Corporate public transport vehicles (事業用乗合計)   | 10,868            | 320       | 13     | 51      |
+| \-- Compared to all corporate cars                | 6.94%             | 35.28%    | 0.50%  | 14.37%  |
+| \- Corporate passenger cars (事業用乗用計)              | 43,762            | 439       | 1720   | 140     |
+| \-- Compared to all corporate cars                | 27.94%            | 48.40%    | 66.20% | 39.44%  |
+| \- Corporate special purpose vehicles (事業用特種(殊)計) | 22,003            | 65        | 240    | 63      |
+| \-- Compared to all corporate cars                | 14.05%            | 7.17%     | 9.24%  | 17.75%  |
+| Corporate motorcycles (事業用小型二輪)                   | 304               | 3         | 4      | 3       |
+| \- Compared to all motorcycles                    | 0.16%             | 0.22%     | 0.15%  | 0.22%   |
+
+So in all of Tokyo, on average less than half of the households have a car (41.3 cars per 100 households). Musashino has even less (34.2), while Mitaka (42.4) and Koganei (39.5) are around the Tokyo average. Only around 1-2% of this is corporate cars, the rest is registered by individuals.
+
+When it comes to corporate cars, in Tokyo half of them are cargo vehicles, followed by 28% of passenger cars (this includes taxis too). Meanwhile in all 3 cities the main corporate car is passenger cars (48%, 66%, 39%), with the second most popular being cargo in Mitaka and Koganei, and public transport vehicle in Musashino. My guess is that this is simply due to more bus companies having their vehicles registered in Musashino, as I'm pretty sure Mitaka has more than 13 buses going around on any given day. Since all corporate cars make up only around 1-2% of vehicles, I don't think these differences change the everyday feel of the cities.
+
+There are only 2-3 motorcycles per 100 households, and almost no corporate motorcycles (less than 0.3% of all motorcycles). This latter is actually surprising for me, as I thought delivery scooters (pizza chains, soba restaurants, newspapers) will make this number bigger.
+
+Overall all 3 cities are fairly similar in this regard, with Musashino having slightly less cars registered per household.
+
 # City budget
 
 The Ministry of Internal Affairs and Communications publishes a set of massive Excel spreadsheets that contain the budget (income, spending, source of both) for all municipalities of Japan (each city being a line in the table).
