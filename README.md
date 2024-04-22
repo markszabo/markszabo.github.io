@@ -2,6 +2,14 @@
 
 Available on https://szabo.jp
 
+## Default features
+
+Linking to another post:
+
+```md
+[existing all-world ETFs in my earlier post]({% post_url 2022-12-27-all-world-etfs-for-nisa %})
+```
+
 ## Custom mods
 
 ### Gallery
