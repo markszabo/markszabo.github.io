@@ -7,5 +7,9 @@ jobs:
   test:
     runs-on: [ubuntu-latest]
     steps:
-      - name: Test action
+      - name: Test action (branch)
         uses: markszabo/test-action@main
+      - name: Test action (tag)
+        uses: markszabo/test-action@v1
+      - name: Test action (full commit hash)
+        uses: markszabo/test-action@af8f7c1d24fe21368d4b5a112d05315ee85e6c16
