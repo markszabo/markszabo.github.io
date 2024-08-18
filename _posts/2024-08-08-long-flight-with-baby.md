@@ -40,7 +40,9 @@ We had dinner at the airport, hung out at the lounge (until they closed at 8pm) 
 
 Traveling with a baby meant that we could board first. 
 
-Take off was the trickiest part as we had to keep our seatbelt on and hold the baby, but it went without issues. My wife would have fed her if she would not have been happy, but it was fine. 
+Take off was the trickiest part as we had to keep our seatbelt on and hold the baby, but it went without issues. My wife would have fed her if she would not have been happy, but it was fine.
+
+During take off and landing the air pressure changes, so ears can pop. To avoid this discomfort it is generally recommended to swallow to open the ear canals, and thus feeding the baby is a good idea. For our case she kept sucking on her pacifier and that seemed to have been enough.
 
 Once the seatbelt sign was off, a flight attendant installed the baby basinet. The baby ate and then fall asleep and slept for almost 10 hours, only waking up a few times to eat. As the flight was leaving in the night, the crew turned down the lights inside the aircraft after takeoff, which helped a lot to keep the baby sleeping. And it also helped us take a rest (for which the extra legroom was really helpful).
 
