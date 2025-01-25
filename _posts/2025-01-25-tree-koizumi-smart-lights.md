@@ -66,7 +66,11 @@ They have many smart lights, so I'll just pick one example, a spot light meant t
 
 The interesting thing is that the light itself seem to have Bluetooth and allows adjusting not just the brightness but also the color temperature. I wonder if this is compatible with one of the dimmer switches (out of the 2 light controllers). The first says 調光タイプ(逆位相制御方式), which is the usual dimmer switch (and thus likely incompatible with smart lights like this), but the other type says [Fit調色タイプ](https://www.koizumi-lt.co.jp/product/jyutaku/fitcolor/) which might be a more likely to work with some lights, although this specific light doesn't mention Fit調色 on its page.
 
-# Asking Koizumi support
+## ECHONET Lite and Home Assistant support
+
+TRee's website says that [the system support ECHONET Lite](https://www.koizumi-lt.co.jp/product/jyutaku/tree/hems.html) and the [echonetlite_homeassistant](https://github.com/scottyphillips/echonetlite_homeassistant) lists the smart bridge (AE50264E) as a supported device.
+
+## Asking Koizumi support
 
 Unfortunately the [Koizumi showroom](https://www.koizumi-lt.co.jp/showroom/tokyo.html) is mainly aimed at companies, and is only open on weekdays, so I couldn't visit. But they have an [online form for product questions](https://www.koizumi-lt.co.jp/form/seihin/) that I submitted. Here are my questions and their answers:
 
@@ -85,7 +89,7 @@ Unfortunately the [Koizumi showroom](https://www.koizumi-lt.co.jp/showroom/tokyo
 |When the WiFi or hub is down|スマートブリッジやWifiが動かない時でも、スマートスイッチ、ライトコントローラー、 メモリーライトコントローラは、普通のスイッチとして、照明をつけたり消したりできますか？|Do the スマートスイッチ, ライトコントローラ, メモリーライトコントローラ still work if the hub or WiFi is not working? Will pressing the button turn on/off the light?|
 ||スマートブリッジやWiFiが動かない場合でも、スマートスイッチ・ライトコントローラ・メモリライトコントローラで手動操作は可能です。|Even if the Smart Bridge or WiFi doesn't work, you can still operate it manually using the Smart Switch, Light Controller, and Memory Light Controller.|
 
-## Deprecation notice
+### Deprecation notice
 
 At the end of their email they added this additional note:
 
