@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adding Furusato nozei to e-Tax
-tags: japan money
+tags: japan money tax
 ---
 
 How to indicate furusato nozei when filing taxes online. (To learn about furusato nozei, see [Furusato nozei - end to end guide]({% post_url 2023-07-29-furusato-nozei-end-to-end %}).)

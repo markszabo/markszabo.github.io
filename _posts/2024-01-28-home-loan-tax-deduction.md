@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home loan tax deductions in Japan (as of 2024)
-tags: money japan
+tags: money japan tax
 ---
 
 Japan has a system that provides income tax deduction for people with a home mortgage in the first years of the mortgage (住宅ローン減税).
