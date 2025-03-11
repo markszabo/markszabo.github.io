@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Furusato nozei - end to end guide
-tags: japan money
+tags: japan money tax
 ---
 
 What is furusato nozei, a bit of history, and how you can do it end to end. This won't be short, but I try my best to provide the full picture with all the details. *While I do my best to keep this information accurate, if you find any inaccuracies, please [let me know](https://github.com/markszabo/markszabo.github.io/issues)*.
