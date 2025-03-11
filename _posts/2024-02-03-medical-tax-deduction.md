@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Medical expense tax deduction in Japan (医療費控除)
-tags: money japan
+tags: money japan tax
 ---
 
 In Japan if one pays more than 100,000 yen of medical expenses in a calendar year, they can deduct it from their pre-tax income (usually leading to an income tax refund).
