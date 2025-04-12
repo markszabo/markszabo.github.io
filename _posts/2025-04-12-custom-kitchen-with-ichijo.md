@@ -86,7 +86,7 @@ Their list price came out to 1,983,300 yen, which went down to 1,264,500 yen aft
 
 ### Price summary
 
-So let's compare the price. For Ichijo, I added the following options (as we had similar choices with the other makers):
+So let's compare the price. For Ichijo, I added the following options (as we made similar choices with the other makers, and we would have added these options if we go with Ichijo's kitchen):
 
 * water purifier: ¥107,000
 * upgraded IH stove: ¥72,600
@@ -116,12 +116,12 @@ The cupboard options:
 | Ichijo (180cm wide Grace Cupboard) | 354,200 yen | 354,200 yen |
 | LIXIL (183 cm wide) | 839,500 yen | 860,000 yen |
 | Panasonic | *no information as they only sent the quote to Ichijo* | 1,197,000 yen |
-| Takara Standard | 550,400 yen | 550,400 yen |
+| Takara Standard (180 cm wide) | 550,400 yen | 550,400 yen |
 | WoodOne (229 cm wide, without overhead storage) | 503,600 yen | 595,000 yen |
 
-Talk about a spread! From 354,200 yen to more than triple, 1,197,000 yen.
+Talk about a spread! From 354,200 yen to more than triple that at 1,197,000 yen.
 
-![The WoodOne cupboard we chose in the end. The other options included the overhead storage too](/assets/2025-04-12-custom-kitchen-with-ichijo/woodone-cupboard.png#lb)
+![The WoodOne cupboard we chose in the end. The other options included the overhead storage too. The part on the left is left empty for trash cans](/assets/2025-04-12-custom-kitchen-with-ichijo/woodone-cupboard.png#lb)
 
 ## Comparison
 
@@ -131,8 +131,8 @@ So let's compare all options, their prices, and anything that sets them apart.
 | --- | ---- | --- |
 | Ichijo with Panasonic front-open |   808,800 yen | The dishwasher would be Panasonic, which we didn't like that much. Also the design is meh. |
 | Ichijo with bring-your-own Miele | 1,132,060 yen | The design is meh, installation is an extra step (another company has to do it), and the price is likely higher (we used numbers from 2021) |
-| LIXIL | 3,743,500 yen | This was for the L shape, so the I shape without overhead storage would likely be a bit cheaper. |
-| Panasonic | 4,691,500 yen | The dishwasher would be Panasonic. The price would likely be less due to the smaller size. |
+| LIXIL | 3,743,500 yen | This was for the L shape, so the I shape without overhead storage would be cheaper. |
+| Panasonic | 4,691,500 yen | The dishwasher is Panasonic. The price would be less due to the smaller size. |
 | Takara Standard | 2,600,000 yen | The price would be less due to the smaller size. |
 | WoodOne | 1,859,500 yen | No overhead storage on either the kitchen or the cupboard. Real wood front (pine) and cupboard top (oak). Gaggenau IH. |
 
@@ -140,4 +140,4 @@ So let's compare all options, their prices, and anything that sets them apart.
 
 We have friends who built with Ichijo and went with one of the first 2 options, and those are very reasonable decisions. However we really didn't like Ichijo's design, and enjoyed working with WoodOne, so we decided to go with them. I'll share photos and our experience once we move in.
 
-![Until then, here is a photo of a similar kitchen that I found online (source: https://www.okuta.com/blog/e030/255)](/assets/2025-04-12-custom-kitchen-with-ichijo/similar-kitchen.jpg#lb)
+![Until then, here is a photo of a similar kitchen that I found online (source: https://www.okuta.com/blog/e030/255). We will have similar shape and size, but with stainless steel top and IH stove](/assets/2025-04-12-custom-kitchen-with-ichijo/similar-kitchen.jpg#lb)
