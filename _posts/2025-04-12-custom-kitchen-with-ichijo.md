@@ -55,7 +55,7 @@ There are many companies making custom kitchens, and we got estimates from a few
 
 The first company we talked to was LIXIL. At this point our layout would have worked best with an L shape kitchen, so we asked them for a that. Once we told that we wanted the front-open Miele dishwasher, they immediately recommended us their highest lineup (as otherwise there would be a gap at the bottom, which would look bad). 
 
-![Lixil kitchen design](/assets/2025-04-12-custom-kitchen-with-ichijo/lixil.png#lb)
+![Lixil's kitchen design](/assets/2025-04-12-custom-kitchen-with-ichijo/lixil.png#lb)
 
 With Miele dishwasher, Panasonic IH stove, and stainless steel counter-top this came out to be 3,643,500 yen at list price.　With Ichijo's discount this price went down to 2,883,500 yen (although it wasn't clear if we would have to pay the installation fee on top of this, or if that was already included).
 
@@ -67,7 +67,7 @@ Next we visited Panasonic's showroom. Since we were disappointed in their front-
 
 The next company was Takara Standard. Their appeal should be that they offer less fancy options than LIXIL for a cheaper price. We can confirm the first part, as the only color option we liked was from their highest tier. 
 
-![Takara Standard kitchen design](/assets/2025-04-12-custom-kitchen-with-ichijo/takara.png#lb)
+![Takara Standard's kitchen design](/assets/2025-04-12-custom-kitchen-with-ichijo/takara.png#lb)
 
 Their estimate came in at ¥2,479,300 on list price, which went down to 2,049,600 after the Ichijo discount.
 
@@ -77,21 +77,40 @@ We weren't really happy with either of the above options: they felt overpriced a
 
 Until my wife found [WoodOne](https://www.woodone.co.jp/product/item/housing_cat/kitchen/): this is a company that focuses on the wooden part of the furniture they offer: they will add the equipment, but since their focus is the body of the furniture, they have better design (at least for us) and much clearer pricing: for each equipment they list its price in their catalog, and that's it. This also allowed us to compare multiple options for the IH and kitchen hood.
 
+This comparison let us upgrade the IH stove from the standard Panasonic one (that we chose with the other makers) to a Gaggenau one, which is supposed to [truly change your life](https://www.youtube.com/watch?v=QxDOQGZqNYI). 
+
 In the end this was the kitchen that we went with from WoodOne (the layout meanwhile changed, so instead of an L shape with got an I shape peninsula type kitchen):
 
-![WoodOne kitchen design](/assets/2025-04-12-custom-kitchen-with-ichijo/woodone.png#lb)
+![WoodOne's kitchen design](/assets/2025-04-12-custom-kitchen-with-ichijo/woodone.png#lb)
 
 Their list price came out to 1,983,300 yen, which went down to 1,264,500 yen after the Ichijo discount. This includes the installation fee and the original kitchen's cancellation refund too.
 
+### Price summary
+
+So let's compare the price. For Ichijo, I added the following options (as we had similar choices with the other makers):
+
+* Panasonic front-open dishwasher: ¥275,000
+* water purifier: ¥107,000
+* upgraded IH stove: ¥72,600
+
+| Maker | List price | Discounted price |
+| --- | ---- | --- |
+| Ichijo with Panasonic front-open | 454,600 yen | 454,600 yen |
+| Ichijo with bring-your-own Miele | 777,860 yen | 777,860 yen |
+| LIXIL | 3,643,500 yen | 2,883,500 yen |
+| Panasonic | *no information as they only sent the quote to Ichijo* | 3,494,500 yen |
+| Takara Standard | 2,479,300 yen | 2,049,600 yen |
+| WoodOne | 1,983,300 yen | 1,264,500 yen |
+
 ## Cupboard
 
-Moreover we also wanted to have a cupboard in the kitchen, which is a paid option from Ichijo:
+Moreover, we also wanted to have a cupboard in the kitchen, which is a paid option from Ichijo:
 
 ![Ichijo's Grace Cupboard size and price options (as of January 2024)](/assets/2025-04-12-custom-kitchen-with-ichijo/ichijo-grace-cupboards.png#lb)
 
-So when deciding whether to go with Ichijo or the custom maker, these would need to be considered too.
+So when deciding whether to go with Ichijo or the custom maker, these had to be considered too. The comparison the table is here:
 
-| Maker | List price | Discounter price |
+| Maker | List price | Discounted price |
 | --- | ---- | --- |
 | Ichijo (180cm wide Grace Cupboard) | 354,200 yen | 354,200 yen |
 | LIXIL (183 cm wide) | 839,500 yen | 860,000 yen |
