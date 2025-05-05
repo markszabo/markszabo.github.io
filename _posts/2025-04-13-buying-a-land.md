@@ -127,3 +127,26 @@ The amounts I paid at this time:
 All-in-all, buying the land cost us 68,682,112 yen (6,868万円), even though the price of the land was only 64,300,000 yen (6,430万円). This puts all the fees combined at 6.8% of the price of the land, which is inline with what I read online.
 
 There you have it, our journey of buying a land in Tokyo. After this, we started the long process of designing our house, but that's a story for another post.
+
+## Cost breakdown
+
+The final cost breakdown of buying the land was this:
+
+
+![Sankey diagram of the cost breakdown](/assets/2025-04-13-buying-a-land/land-cost-breakdown.png#lb)
+
+<!--
+Made with: https://sankeymatic.com/build/
+Width: 800
+Height: 400
+
+Source:
+Mortgage [68500000] Overall
+Self paid [182112] Overall
+
+Overall [64300000] Land
+Overall [2000000] Real estate agency fee
+Overall [1507000] Guarantor/loan fee (2.2%)
+Overall [748500] Registration & taxes
+Overall [126612] Property tax (1st year)
+-->
