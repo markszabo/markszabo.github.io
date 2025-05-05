@@ -1,0 +1,4 @@
+{
+  "name": "markszabo.github.io",
+  "postCreateCommand": "./.devcontainer/postCreateCommand.sh"
+}
