@@ -52,7 +52,7 @@ With the 2 months delay our final schedule looked like this:
 * December 9: 12th layout. Almost there, finalizing lights.
 * January 9: 13th layout. We spent New Years with the in-laws, and they pointed out that the kitchen is only about 2m away from the toilet door. We spent the rest of the holiday coming up with new layouts until we found one that was the best, and shared it with the architect on January 9.
 * January 23: 14th layout, based on our new idea. Works really well.
-* February 7: 15th layout. Still figuring out the kitchen counter a bit, and moving some doors, but the walls are the same as in the final design. Meanwhile working hard to finalize all the electrical stuff (as we kept changing the layout until now and we care about lights). We had two sessions with a lighting consultant to get advice.
+* February 7: 15th layout. Still figuring out the kitchen counter a bit, and moving some doors, but the walls are the same as in the final design. Meanwhile working hard to finalize all the electrical stuff (as we kept changing the layout until now and we care about lights). We had two sessions with [a lighting designer](https://coconala.com/users/1921513/) to get advice.
 * February 19: 16th layout, final meeting to confirm everything. Usually at this point only minor changes are made, but we make like 200 requests (including adding a new window to the bathroom, and redefining the floorheating zones).
 
 This concluded the design phase, and we are looking at a construction schedule of:
@@ -142,7 +142,7 @@ It took a lot of work to find a place for this where it is not in the way, but s
 
 Those were most of the rules of designing the house. Our architect was excellent at knowing about these and guiding our design to ensure we follow them. However He was less strong in suggesting us good design ideas. Apart from the initial design, he mainly waited for us to come up with ideas, and then he would work those into the layout.
 
-Towards the end of the design we were running out of time, and were also slightly frustrated with the lack of advice about design (e.g. about lights). So we consulted with a freelancer lighting advisor and had a one hour call with him twice. These were super helpful. He had a lot of concrete advice, and he worked with us on figuring out what works for our design. I can highly recommend him. (He does not speak English though.)
+Towards the end of the design we were running out of time, and were also slightly frustrated with the lack of advice about design (e.g. about lights). So we consulted with a [freelancer lighting advisor](https://coconala.com/users/1921513/) and had a one hour call with him twice. These were super helpful. He had a lot of concrete advice, and he worked with us on figuring out what works for our design. I can highly recommend [him](https://coconala.com/users/1921513/). (He does not speak English though.)
 
 Things we would do differently next time:
 
