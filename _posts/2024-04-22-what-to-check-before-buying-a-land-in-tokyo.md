@@ -114,15 +114,15 @@ After finishing the design of our house, I have two things to add to this list.
 
 # Urban Planning Facilities (都市計画施設)
 
-Cities make decade long 'master plans' for things like new roads, parks, schools, etc. Then when the houses in the area get old and the owners want to sell, the city buys the land and later builds.
+Cities make decade long 'master plans' for things like new roads, parks, schools, etc. Then when the houses in the area get old and the owners want to sell, the city buys the lands, and later builds what they have planned.
 
-Sometimes plans change, and the city might decide not to pursue an original plan. This was the case with our land: it has a plan for a city park (都市計画公園) but the city has not been pursuing it. So our real estate agent told us that there was nothing to worry about, we just ask for a special permission, and they will grant it. This was true, we got the special permission (都市計画法53条許可) without any issue. (According to the real estate agent the plan for the park was made a long time ago, but it would take a vote of the city assembly to officially cancel it, so they just don't bother removing it.)
+Sometimes plans change, and the city might decide not to pursue an original plan. This was the case with our land: it has a plan for a city park (都市計画公園) but the city has not been pursuing it. So our real estate agent told us that there is nothing to worry about, we just ask for a special permission to build, and they will grant it. This was true, we got the special permission (都市計画法53条許可) without any issue. (According to the real estate agent the plan for the park was made a long time ago, but it would take a vote of the city assembly to officially cancel it, so they just don't bother removing it.)
 
-However what the real estate agent failed to mention  is that by being on an urban planning area, our house is disqualified for the 長期優良住宅 (Long-term Quality Housing) certification, which means we loose out on some of the government subsidies. Subsidies depend on the location, so if your land is on an area like this (might need to ask at the city hall, or the real estate agent), then it is worth looking into.
+However what the real estate agent failed to mention  is that by being on an urban planning area, our house is disqualified for the 長期優良住宅 (Long-term Quality Housing) certification, which means we loose out on some of the government subsidies. Subsidies depend on the location, so if your land is on an area like this (might need to ask at the city hall, or the real estate agent to confirm), then it is worth looking into.
 
 # Fire Protection Districts (防火地域)
 
-Some areas are marked as Fire Protection Districts (防火地域) or Quasi-Fire Protection District (準防火地域), and buildings in these are required to fulfill stronger fire resistance rules. This rules out some windows (especially big ones), might require you to install shutters, and generally increase the costs.
+Some areas are marked as Fire Protection Districts (防火地域) or Quasi-Fire Protection District (準防火地域), and buildings in these are required to fulfill stronger fire resistance rules. This rules out some windows (especially big ones), might require you to install shutters, and generally increases the costs.
 
-For Ichijo, I'm not sure if it changes their design or windows options, and it only adds slightly to the costs. After talking with a friend who built a similar size house around the same time in a Quasi-Fire Protection District (準防火地域) area, their base price (建物本体工事御見積書, Main building construction) was only ~2% higher for making it semi fire-proof (準耐火仕様).
+For Ichijo, I'm not sure if it changes their design or windows options, and it only adds slightly to the costs. After talking with a friend who built a similar size house around the same time in a Quasi-Fire Protection District (準防火地域) area, their base price (建物本体工事御見積書, Main building construction) was only ~2% higher for making it semi fire-proof (準耐火仕様) compared to ours, so it doesn't seem to make that much of a difference.
 
