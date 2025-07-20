@@ -36,6 +36,21 @@ Adding `#lb` to the end of an image URL will make it a clickable image that open
 docker run --rm -v $(pwd):/srv/jekyll -p 4000:4000 -p 35729:35729 -it jekyll/jekyll:builder jekyll serve --livereload --future
 ```
 
+# Remove metadata from images
+
+First install the required packages:
+
+```bash
+sudo apt update
+sudo apt install -y jpegoptim exiftool imagemagick
+```
+
+Then run the script:
+
+```bash
+scripts/clean.sh assets/2025-07-20-choosing-a-car
+```
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
