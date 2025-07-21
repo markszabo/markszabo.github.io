@@ -43,6 +43,30 @@ This all costs money, likely making this option the most expensive one. However 
 
 I didn't ask about the details of the warranty, but I assume it is on the condition that we regularly service our car at an official dealership, which likely explains the seemingly low price for it.
 
+## Car condition rating
+
+Official dealerships also provide a rating on the internal and external condition of the car, listing all damages (including very minor ones).
+
+![Our car's rating (see below for English)](/assets/2025-07-21-how-to-buy-a-second-hand-car/rating.png#lb)
+
+Our car got the following ratings:
+
+* **Overall score:** 3.5 (out of 6) - "There are some scratches and dents, but it is in relatively good condition"
+* **Exterior:** D (from A(best),B,C,D,E(worst)) - "There are some noticeable scratches and dents." (but nothing that threatens with rust, only cosmetic issues that don't have to be fixed)
+* **Interior**: B (from A(best),B,C,D,E(worst)) - "There is little wear or dirt, and the overall condition is good." - we couldn't see any issues at all, it looked like brand new for us
+
+The evaluation goes even further and outlines the places where they identified damages, e.g. for our car:
+
+![Damages on our car from the evaluation](/assets/2025-07-21-how-to-buy-a-second-hand-car/damages.png#lb)
+
+After seeing the car in person, I would be hard pressed to find even half of these. Things like "golf-ball size dent" and "touch pen marks of less than 10 cm" is just something I wouldn't even notice, let alone care about. (Also as a family car, I'm sure we will double the number of these damages in a few years time.)
+
+Clicking on a damage will show the details. (Some listings will only provide a pdf listing all damages, some will have this interactive view.)
+
+![Clicking on a damage will show the details](/assets/2025-07-21-how-to-buy-a-second-hand-car/damages-en.png#lb)
+
+The nice thing is that this evaluation is available as part of the listing, so you can check all minor damages before seeing the car in person. Also since this is part of an official certificate that the dealer (or another company? not sure) provides, if later there is another defect discovered, that might be covered under warranty. (So it's not just the sales person telling you that the car is in top condition, but you get an official paper listing out all known damages.)
+
 ## Same brand different companies
 
 We learned that most dealerships are independent companies, so e.g. if you buy a second hand car in Honda Tachikawa, then you will have to bring it back to that specific shop for check ups and warranty-related issues. Toyota is different: in Tokyo most shops are under the Toyota Mobility Tokyo (トヨタモビリティ東京) brand (owned by a single company), and you can visit any shop for maintenance and warranty. This also affects second-hand car selection: most shops will only sell the ones available at their location, but Toyota Mobility Tokyo will bring you any car from any other Toyota Mobility Tokyo shop for free, if you are interested. (Other brands might have similar setups, but it is worth checking.)
