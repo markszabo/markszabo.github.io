@@ -55,6 +55,21 @@ Our car got the following ratings:
 * **Exterior:** D (from A(best),B,C,D,E(worst)) - "There are some noticeable scratches and dents." (but nothing that threatens with rust, only cosmetic issues that don't have to be fixed)
 * **Interior**: B (from A(best),B,C,D,E(worst)) - "There is little wear or dirt, and the overall condition is good." - we couldn't see any issues at all, it looked like brand new for us
 
+Toyota publishes the meaning of each grade (they call this [オールトヨタ統一品質評価制度](https://ucar.netzfukui.co.jp/feature/hyouka/), All‑Toyota Unified Quality Evaluation System):
+
+| Grade                                                                                                             | Description                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **S**                                                                                                             | Almost brand-new: registered less than 1 year ago, under 10,000 km, virtually no wear.                |
+| **6**                                                                                                             | Like-new: under 3 years/less than 30,000 km, flawless with no repairs.                                |
+| **5**                                                                                                             | Excellent: up to 50,000 km, minor imperfections but no repair needed.                                 |
+| **4.5**                                                                                                           | Very good: under 100,000 km, minor scratches or dents that could be easily repaired to bring up to 5. |
+| **4**                                                                                                             | Good overall: noticeable scratches/dents or rust, but still within reasonable condition.              |
+| **3.5**                                                                                                           | Slightly worn: multiple scratches or dents, may need moderate repairs.                                |
+| **3**                                                                                                             | Noticeably worn: visible damage requiring repairs; may have interior stains or fading.                |
+| **2**                                                                                                             | Major wear but still drivable—significantly deteriorated condition.                                   |
+| **1**                                                                                                             | Poor condition: flood damage, modified or used as parts car—generally not suitable for drivers.       |
+| **RA / R**                                                                                                        | **Repair history**: frame or structural repairs—still drivable, but not ideal.                        |
+
 The evaluation goes even further and outlines the places where they identified damages, e.g. for our car:
 
 ![Damages on our car from the evaluation](/assets/2025-07-21-how-to-buy-a-second-hand-car/damages.png#lb)
