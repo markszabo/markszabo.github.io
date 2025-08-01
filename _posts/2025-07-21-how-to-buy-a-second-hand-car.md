@@ -68,7 +68,7 @@ Toyota publishes the meaning of each grade (they call this [オールトヨタ�
 | **3**                                                                                                             | Noticeably worn: visible damage requiring repairs; may have interior stains or fading.                |
 | **2**                                                                                                             | Major wear but still drivable—significantly deteriorated condition.                                   |
 | **1**                                                                                                             | Poor condition: flood damage, modified or used as parts car—generally not suitable for drivers.       |
-| **RA / R**                                                                                                        | **Repair history**: frame or structural repairs—still drivable, but not ideal.                        |
+| **RA / R**                                                                                                        | Repair history: frame or structural repairs—still drivable, but not ideal.                        |
 
 The evaluation goes even further and outlines the places where they identified damages, e.g. for our car:
 
