@@ -38,6 +38,7 @@ This all costs money, likely making this option the most expensive one. However 
 * wiper change
 * battery change
 * AC cleaning and filter change
+* brand new SD card for the drive recorder
 * inside and outside cleaning before showing and before handover
 * 1 year warranty included (and another 2 year warranty added for 7,590 yen)
 
