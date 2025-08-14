@@ -4,7 +4,7 @@ title: "How to buy a second-hand car in Japan?"
 tags: car japan money
 ---
 
-So we [recently bought a second-hand minivan](({% post_url  2025-07-20-choosing-a-car %})), and in this post I'll cover the various options on how one might buy a second-hand car in Japan. (This is based on my limited research, so I could have missed somethings. Feel free to correct me in the comments.)
+So we [recently bought a second-hand minivan]({% post_url  2025-07-20-choosing-a-car %}), and in this post I'll cover the various options on how one might buy a second-hand car in Japan. (This is based on my limited research, so I could have missed somethings. Feel free to correct me in the comments.)
 
 <!--break-->
 
