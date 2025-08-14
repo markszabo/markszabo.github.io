@@ -4,7 +4,7 @@ title: "Car insurance in Japan"
 tags: car japan money
 ---
 
-We [recently bought a second-hand minivan](({% post_url  2025-07-21-how-to-buy-a-second-hand-car %})) and in this post I'll describe what I learned about car insurance, and our experience signing up for one.
+We [recently bought a second-hand minivan]({% post_url  2025-07-21-how-to-buy-a-second-hand-car %}) and in this post I'll describe what I learned about car insurance, and our experience signing up for one.
 
 <!--break-->
 
@@ -95,6 +95,6 @@ Also we learned that AXA's base rate includes the roadside assistance service (a
 
 In the end this left us with a yearly insurance fee of 40,750 yen, which I'm pretty happy with. We will probably revisit the coverage next year, but until then this is a good deal, I think.
 
-Once the dealer completed the paperwork for our car and sent us the 車検書 (shakensho), we uploaded that and my wife's driving license (the main driver), and finalized the insurance contract on their website.
+Once the dealer completed the paperwork for our car and sent us the 車検書 (shakensho), we input the details from that (chassis number, license plate), and finalized the insurance contract on their website. As the last step we paid by credit card (we paid the full year at once, as paying it monthly would be 10% more expensive).
 
 The overall process was easy and clear, and this is one more reason I liked AXA. Comparing it to Mitsumori (where I had the corporate discount): while they had the easy estimate website, the next step was to call them and based on other's experience, the call usually takes an hour.
