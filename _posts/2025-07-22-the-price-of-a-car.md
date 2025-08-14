@@ -4,7 +4,7 @@ title: "The price of a second-hand car in Japan"
 tags: car japan money
 ---
 
-So we [recently bought a second-hand minivan](({% post_url  2025-07-20-choosing-a-car %})). I thought the price of the car will be simple: there might be some negotiation, but otherwise it should be a simple number, right? Well, it's more complicated.
+So we [recently bought a second-hand minivan]({% post_url  2025-07-20-choosing-a-car %}). I thought the price of the car will be simple: there might be some negotiation, but otherwise it should be a simple number, right? Well, it's more complicated.
 
 <!--break-->
 
