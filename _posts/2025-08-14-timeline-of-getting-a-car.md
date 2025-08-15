@@ -51,7 +51,13 @@ We went there, and checked the car (already prepared specific things we wanted t
 
 We decided to buy it, and went through the paperwork. We arrived at 10:40am, decided to get it around 11:30am, and finished the paperwork by 1:30pm.
 
+We paid 10,000 yen in cash this time, and were told to transfer the rest of the money within a few days.
+
 We were told that it will take about a month to get the car, especially as 3 weeks from today Obon will start, and the company will close for a full week. So we decided to speed things up and try to get it before Obon.
+
+## 2.5 weeks before: paying for the car
+
+A few days after signing the contract I sent [the price of the car]({% post_url  2025-07-22-the-price-of-a-car %}) (minus the 10,000 yen) via bank transfer.
 
 ## 2 weeks before: finalized the parking
 
