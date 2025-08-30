@@ -28,8 +28,8 @@ This does mean that if your house gets destroyed after an earthquake, the insura
 
 Since fire insurance is the mandatory, basic block of the home insurance, a lot depends on the fireproof-ness of the house. This depends on the building structure (建物の構造). For the calculation there is a [common flowchart used by many websites](https://hoken.kakaku.com/kasai/select/kouzou/#:~:text=%E8%A9%B2%E5%BD%93%E3%81%97%E3%81%AA%E3%81%84%E5%BB%BA%E7%89%A9-,%E6%A7%8B%E9%80%A0%E7%B4%9A%E5%88%A5%E3%81%AE%E5%88%A4%E5%AE%9A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88,-%E5%BB%BA%E7%89%A9%E3%81%AE%E6%A7%8B%E9%80%A0) which comes down to the following for single-family houses:
 
-* **Are the pillars "Concrete structure" or "Steel frame structure"?
+* Are the pillars "Concrete structure" or "Steel frame structure"?
   * Yes → T-Structure (Fire-resistant Structure)
-  * **No → Is it a "Fire-resistant (耐火建築物) / Semi-fire-resistant (準耐火建築物) building" or a "Quasi-fire-resistant (省令準耐火) building (by ministerial ordinance)"?
+  * No → Is it a "Fire-resistant (耐火建築物) / Semi-fire-resistant (準耐火建築物) building" or a "Quasi-fire-resistant (省令準耐火) building (by ministerial ordinance)"?
     * Yes → T-Structure (Fire-resistant Structure)
     * No → H-Structure (Other Structures)
