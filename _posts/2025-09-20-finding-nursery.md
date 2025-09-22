@@ -54,11 +54,15 @@ If you employer has one, you likely already know, and otherwise these are likely
 
 #### 認証保育所 - Tokyo licensed nursery
 
-As I mentioned above, these are [licensed by Tokyo](https://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/ninsyo), but still run as private businesses for the most part. Musashino has [a website that lists all nurseries with the available spots](https://musashino.city-hc.jp/nursery/availabilities/%E8%AA%8D%E8%A8%BC%E4%BF%9D%E8%82%B2%E6%89%80), and this is where we found ours.
+As I mentioned above, these are [licensed by Tokyo](https://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/ninsyo). Part of the requirement is a cap on the maximum monthly fee ([80,000 yen/month under 3, 77,000 yen otherwise](https://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/ninsyo?utm_source=chatgpt.com#:~:text=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AA%8D%E8%A8%BC%E4%BF%9D%E8%82%B2%E6%89%80%E4%BA%8B%E6%A5%AD%E5%AE%9F%E6%96%BD%E8%A6%81%E7%B6%B14%E3%81%AB%E5%AE%9A%E3%82%81%E3%82%8B%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AB%E3%82%88%E3%82%8A%E3%80%81%E5%8E%9F%E5%89%87%E3%81%A8%E3%81%97%E3%81%A6%E3%80%81%E6%9C%88220%E6%99%82%E9%96%93%E4%BB%A5%E4%B8%8B%E3%81%AE%E5%88%A9%E7%94%A8%E3%82%92%E3%81%97%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AE%E6%9C%88%E9%A1%8D%E3%81%AF%E3%80%813%E6%AD%B3%E6%9C%AA%E6%BA%80%E5%85%90%E3%81%AE%E5%A0%B4%E5%90%8880%EF%BC%8C000%E5%86%86%E3%80%813%E6%AD%B3%E4%BB%A5%E4%B8%8A%E5%85%9077%EF%BC%8C000%E5%86%86%E3%82%92%E8%B6%85%E3%81%88%E3%81%AA%E3%81%84%E6%96%99%E9%87%91%E8%A8%AD%E5%AE%9A%E3%81%A8%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)), and in exchange for this they receive subsidies both when being established as well as ongoing support ([source1](https://www.hoikunomiryoku.metro.tokyo.lg.jp/hoiku-service.html), [source2](https://www.city.mitaka.lg.jp/c_service/001/001067.html)).
+
+Applications are handled by the nurseries directly, however (as we learned recently) because of the subsidy, the city hall might still require parents to fulfill some requirements. For example both Mitaka and Musashino require the need for a nursery (so parents have to work at least part time), but it seems Mitaka is much more relaxed about this than Musashino.
+
+Musashino has [a website that lists all nurseries with the available spots](https://musashino.city-hc.jp/nursery/availabilities/%E8%AA%8D%E8%A8%BC%E4%BF%9D%E8%82%B2%E6%89%80), and this is where we found ours. Interestingly while the nursery is in Musashino, since we live in Mitaka, the Mitaka city hall pays the nursery, so we had to fulfill the requirements set by Mitaka.
 
 ## Application and fees
 
-We applied and got accepted to one of these, that is part of the [Poppins Nurseries](https://www.poppins.co.jp/educare/service/nursery-school/). After filling out the application form, there was an interview (of the parents, not the baby) but it was mostly an explanation session to ensure we knew how everything worked.
+We applied and got accepted to one of the Tokyo-certified nurseries of Musashino, that is part of the [Poppins Nurseries](https://www.poppins.co.jp/educare/service/nursery-school/) chain. After filling out the application form, there was an interview (of the parents, not the baby) but it was mostly an explanation session to ensure we knew how everything worked.
 
 We started out in the 6 hours/day (9am-3pm), 5 days/week plan for 60,000 yen per month, then later switched to the 8 hours/day (9am-5pm) for 72,000 yen per month. 
 
