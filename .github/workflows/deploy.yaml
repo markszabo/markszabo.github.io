@@ -27,14 +27,14 @@ jobs:
           verbose: true
 
       - name: Upload artifact
-        #if: github.ref == 'refs/heads/main' 
+        if: github.ref == 'refs/heads/main' 
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./_site
 
   deploy:
     needs: build
-    #if: github.ref == 'refs/heads/main' 
+    if: github.ref == 'refs/heads/main' 
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -44,7 +44,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Run post-deploy commands
+      - name: Send newsletters about the new post
         run: |
           echo "✅ Deployment finished"
           echo "Sending newsletters"
