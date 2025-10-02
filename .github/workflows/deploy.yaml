@@ -47,6 +47,6 @@ jobs:
       - name: Run post-deploy commands
         run: |
           echo "✅ Deployment finished"
-          # Add your commands here, e.g.:
-          # curl -X POST https://example.com/hook
-          # notify-send "Pages deployed!"
+          echo "Sending newsletters"
+          curl -v --fail "https://newsletter.szabo.jp/?action=send-digest&key=${{ secrets.NEWSLETTER_SENDING_KEY }}"
+          echo "Newsletter notifications sent"
