@@ -14,7 +14,7 @@ We are planning to cover 100% of the land and house with a mortgage (due to the 
 
 However Ichijo (and most other house maker companies) want to get paid in 3 installments:
 
-* 33% before construction starts (着手金)
+* 33% before construction starts (着手金) - Ichijo asks this more than 75 days before the structure is standing (上棟７５日前まで)
 * 33% when the structure is standing (上棟金)
 * rest when the house is done
 
