@@ -50,10 +50,10 @@ Details of the quote:
 
 * Insured amounts for fire insurance (everything other than earthquake)
   * House: 35.6 million yen
-  * Personal belongings: 500,000 yen
+  * Personal belongings: 5 million yen
 * Insured amounts for earthquake (half of the above)
   * House: 17.8 million yen
-  * Personal belongings: 250,000 yen
+  * Personal belongings: 2.5 million yen
 * Length: 5 year
 * Deductible (amount to pay out of pocket): 0 yen, except for damage caused by other people (neighbor, break-in) or ourselves. These have a deductible of 50,000 yen
 
@@ -93,7 +93,7 @@ Was the Ichijo-special Tokyo Marine offer actually a good deal? It was the cheap
 
 I had great experience with Sony travel insurance in the past (and also this was the cheapest company that I recognized the name of), so I decided to check them out. Kakaku also listed that they pay claims within 2 business days in general (4 business days in some cases), which is much better than the 30 day promise of Tokyo Marine.
 
-I go through the Sony insurance wizard and get an estimate of 201,420 yen (for the full, everything included plan). How did the Kakaku 334,553 yen go down this much? I believe it's because Kakaku didn't ask for the earthquake resistance of the building, and since Ichijo houses have the highest (level 3) earthquake resistance, that saves 50% of the earthquake insurance part of the quote.
+I go through the Sony insurance wizard and get an estimate of 201,420 yen (for the full, everything included plan). How did the Kakaku 336,783 yen go down this much? I believe it's because Kakaku didn't ask for the earthquake resistance of the building, and since Ichijo houses have the highest (level 3) earthquake resistance, that saves 50% of the earthquake insurance part of the quote.
 
 ### Make earthquake insurance cover 100%
 
