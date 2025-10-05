@@ -10,7 +10,7 @@ We are currently building our home in Tokyo with [Ichijo]({% post_url 2025-05-24
 
 ## Background
 
-We are planning to cover 100% of the land and house with a mortgage (due to the super-low interest rate). The bank [gave us the money for the land when we closed on the land]({%.post_url 2025-04-13-buying-a-land %}), but they only want to give the money for the building once it is ready (so that they have it as a collateral).
+We are planning to cover 100% of the land and house with a mortgage (due to the super-low interest rate). The bank [gave us the money for the land when we closed on the land]({% post_url 2025-04-13-buying-a-land %}), but they only want to give the money for the building once it is ready (so that they have it as a collateral).
 
 However Ichijo (and most other house maker companies) want to get paid in 3 installments:
 
