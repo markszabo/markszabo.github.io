@@ -103,14 +103,46 @@ Since our house is pretty earthquake and fire resistant, we decided not to take 
 
 ## Fine-tuning
 
-We don't really have expensive belongings, so decided to limit the coverage to the house-only (the original quote had a coverage of 5 million yen for things inside the house). The site also showed us the breakdown cost of each option:
+We don't really have expensive belongings, so decided to limit the coverage to the house-only (the original quote had a coverage of 5 million yen for things inside the house). The site also showed us the breakdown cost of each option. This gave us the option to fine-tune the coverage and get what we think is necessary.
 
-* Earthquake (incl volcanic eruptions and tsunami): 114,900 yen
+In the end we decided to get these:
+
+* Earthquake (incl. volcanic eruptions and tsunami): 114,900 yen
 * Fire, lightning, rupture/explosion: 9,445 yen (mandatory)
 * Wind, hail, snow: 6,837 yen
-* Water (typhoon, storm, floods, landslides): 32,014 yen
+* Water (typhoon, storm, floods, landslides): 32,014 yen - even though our house is not in a flood zone. We decided to get this mainly for the typhoon and storm coverage
 * Water damage from burst pipes, collision with external objects (including vehicles, and vandalism): 4,966 yen
 * Break-in: 720 yen
 * Personal liability compensation (for the entire family): 7,161 yen
 
-This gave us the option to fine-tune the coverage and get what we think is necessary.
+We skipped on:
+
+* increasing earthquake insurance to 100% - it was very expensive, while the risk of major damage is unlikely
+* extra insurance for fire spreading from our house to other houses: 3,650 yen - our house is very fire-resistant and the neighbors are not too close, so this isn't a concern for us
+* damaging or soiling the house or furniture by our mistake: 20,441 yen - e.g. scratching the wall when moving furniture, kid throwing a toy at the TV and breaking it. This has a deductible of 50,000 yen. We don't have expensive stuff.
+* 10% extra payout for any insurance payout: 3,290 yen. Up to 1 million yen. We just don't think we need this.
+
+We got an additional 500 yen discount for agreeing to only get the documents electronically.
+
+This brought our end price to 175,633 yen for the 5 years.
+
+## Documents for the application
+
+Sony asked for 3 documents to upload:
+
+1. **Documents proving building information** (建物情報を証明する書類):
+   * Confirmation notice and confirmation certificate (確認通知書・確認済証)
+2. **Documents proving fire resistance** (耐火性能を証明する書類). One of the following:
+   * Building confirmation application form (建築確認申請書)
+   * Design specifications, blueprints, etc. (設計仕様書・設計図面など)
+      * Documents issued by the construction company, house manufacturer, or seller that indicate fire resistance. Please note that these documents cannot be used if the main structural components of the building are fire-resistant or semi-fire-resistant. (施工業者・ハウスメーカーまたは販売者が発行した書類のうち、耐火性能を示す記載があるものです。なお、建物の主要構造部が「耐火構造」「準耐火構造」等の場合はご利用いただけません。)
+   * Building structure (fire resistance standard) certificate (建物構造（耐火基準）証明書)
+      * This document is created by having construction companies and home builders fill out the insurance company's designated form. (施工業者・ハウスメーカーに、当社所定の用紙を記入いただいて作る書類です。)
+   * Existing insurance policy from another company (他社の保険証券等) - when switching from an existing insurance
+3. **Documents proving eligibility for earthquake insurance discounts** (地震保険割引の適用対象を証明する書類). One of the following:
+   * Housing performance evaluation report (住宅性能評価書)
+   * Certificate of Compliance for Flat 35S (フラット35Sに関する適合証明書)
+   * Long-term quality housing technical inspection certificate (長期優良住宅の技術的審査適合証)
+   * Existing insurance policy from another company (他社の保険証券等) - when switching from an existing insurance
+
+We had the first (Confirmation notice and confirmation certificate) and third (Housing performance evaluation report) already, and asked Ichijo for the second one.
