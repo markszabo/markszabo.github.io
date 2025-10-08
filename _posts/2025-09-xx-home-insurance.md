@@ -107,28 +107,32 @@ We don't really have expensive belongings, so decided to limit the coverage to t
 
 In the end we decided to get these:
 
-* Earthquake (incl. volcanic eruptions and tsunami): 114,900 yen
-* Fire, lightning, rupture/explosion: 9,445 yen (mandatory)
-* Wind, hail, snow: 6,837 yen
-* Water (typhoon, storm, floods, landslides): 32,014 yen - even though our house is not in a flood zone. We decided to get this mainly for the typhoon and storm coverage
-* Water damage from burst pipes, collision with external objects (including vehicles, and vandalism): 4,966 yen
-* Break-in: 720 yen
-* Personal liability compensation (for the entire family): 7,161 yen
+| Coverage                                                                  | Premium for 5 year | Notes                                                          |
+| ------------------------------------------------------------------------- | -------------------- | -------------------------------------------------------------- |
+| Earthquake (incl. volcanic eruptions and tsunami)                         | 114,900 yen              | Required by our bank                                              |
+| Fire, lightning, rupture/explosion                                        | 9,445 yen                | Mandatory                                                      |
+| Wind, hail, snow                                                          | 6,837 yen                |                                                                |
+| Water (typhoon, storm, floods, landslides)                                | 32,014 yen               | We are not in a flood zone, but included it for typhoon and storm coverage |
+| Water damage from burst pipes, collision with external objects, vandalism | 4,966 yen                | Included it for a potential leaking washing machine or burst pipes                      |
+| Break-in                                                                  | 720 yen                  |  It was cheap                     |
+| Personal liability compensation (for the entire family)                   | 7,161 yen                |                                                                |
 
 We skipped on:
 
-* increasing earthquake insurance to 100% - it was very expensive, while the risk of major damage is unlikely
-* extra insurance for fire spreading from our house to other houses: 3,650 yen - our house is very fire-resistant and the neighbors are not too close, so this isn't a concern for us
-* damaging or soiling the house or furniture by our mistake: 20,441 yen - e.g. scratching the wall when moving furniture, kid throwing a toy at the TV and breaking it. This has a deductible of 50,000 yen. We don't have expensive stuff.
-* 10% extra payout for any insurance payout: 3,290 yen. Up to 1 million yen. We just don't think we need this.
+| Option                                                          | Premium for 5 year | Reason                                        |
+| --------------------------------------------------------------- | ------------------ | --------------------------------------------- |
+| Increasing earthquake insurance to 100%                         | 182,290 yen        | Too expensive; major damage unlikely even if a 'big one' hits |
+| Extra insurance for fire spreading from our house to others     | 3,650 yen          | House is fire-resistant; neighbors not close  |
+| Damage or stains from our own mistakes (walls, furniture, etc.) | 20,441 yen         | Has 50,000 yen deductible; We don't own expensive items |
+| 10% extra payout for any insurance payout                       | 3,290 yen          | Up to 1 million yen; Feels unnecessary              |
 
 We got an additional 500 yen discount for agreeing to only get the documents electronically.
 
-This brought our end price to 175,633 yen for the 5 years.
+This brought our end price to 175,633 yen for the 5 years, saving us 55,000-75,000 yen compared to the first quote.
 
 ## Documents for the application
 
-Sony asked for 3 documents to upload:
+During the application process Sony asked for 3 documents to upload:
 
 1. **Documents proving building information** (建物情報を証明する書類):
    * Confirmation notice and confirmation certificate (確認通知書・確認済証)
@@ -145,4 +149,6 @@ Sony asked for 3 documents to upload:
    * Long-term quality housing technical inspection certificate (長期優良住宅の技術的審査適合証)
    * Existing insurance policy from another company (他社の保険証券等) - when switching from an existing insurance
 
-We had the first (Confirmation notice and confirmation certificate) and third (Housing performance evaluation report) already, and asked Ichijo for the second one.
+We had the first (Confirmation notice and confirmation certificate) and third (Housing performance evaluation report) already. For the second we had the Building confirmation application form (建築確認申請書), but that didn't indicate our house's fire resistance (quasi-fire-resistant by ministerial ordinance, 省令準耐火), so we couldn't use it. We also couldn't find this information on any other document from Ichijo, so we asked them to provide it.
+
+
