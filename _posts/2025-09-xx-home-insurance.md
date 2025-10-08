@@ -141,7 +141,7 @@ During the application process Sony asked for 3 documents to upload:
    * Design specifications, blueprints, etc. (設計仕様書・設計図面など)
       * Documents issued by the construction company, house manufacturer, or seller that indicate fire resistance. Please note that these documents cannot be used if the main structural components of the building are fire-resistant or semi-fire-resistant. (施工業者・ハウスメーカーまたは販売者が発行した書類のうち、耐火性能を示す記載があるものです。なお、建物の主要構造部が「耐火構造」「準耐火構造」等の場合はご利用いただけません。)
    * Building structure (fire resistance standard) certificate (建物構造（耐火基準）証明書)
-      * This document is created by having construction companies and home builders fill out the insurance company's designated form. (施工業者・ハウスメーカーに、当社所定の用紙を記入いただいて作る書類です。)
+      * This document is created by having construction companies and home builders fill out the insurance company's [designated form.](https://www.sonysonpo.co.jp/fire/doc/scht_002.html) (施工業者・ハウスメーカーに、当社所定の用紙を記入いただいて作る書類です。)
    * Existing insurance policy from another company (他社の保険証券等) - when switching from an existing insurance
 3. **Documents proving eligibility for earthquake insurance discounts** (地震保険割引の適用対象を証明する書類). One of the following:
    * Housing performance evaluation report (住宅性能評価書)
