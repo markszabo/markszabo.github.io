@@ -149,6 +149,6 @@ During the application process Sony asked for 3 documents to upload:
    * Long-term quality housing technical inspection certificate (長期優良住宅の技術的審査適合証)
    * Existing insurance policy from another company (他社の保険証券等) - when switching from an existing insurance
 
-We had the first (Confirmation notice and confirmation certificate) and third (Housing performance evaluation report) already. For the second we had the Building confirmation application form (建築確認申請書), but that didn't indicate our house's fire resistance (quasi-fire-resistant by ministerial ordinance, 省令準耐火), so we couldn't use it. We also couldn't find this information on any other document from Ichijo, so we asked them to provide it.
+We had the first (Confirmation notice and confirmation certificate) and third (Housing performance evaluation report) already. For the second we had the Building confirmation application form (建築確認申請書), but that didn't indicate our house's fire resistance (quasi-fire-resistant by ministerial ordinance, 省令準耐火), so we couldn't use it. We also couldn't find this information on any other document from Ichijo, so we asked them to provide it. (We found [another blog where they talk about the same situation](https://ismart-kurashi.com/archives/15664391.html).)
 
 
