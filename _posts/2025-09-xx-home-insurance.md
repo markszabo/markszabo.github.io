@@ -151,4 +151,10 @@ During the application process Sony asked for 3 documents to upload:
 
 We had the first (Confirmation notice and confirmation certificate) and third (Housing performance evaluation report) already. For the second we had the Building confirmation application form (建築確認申請書), but that didn't indicate our house's fire resistance (quasi-fire-resistant by ministerial ordinance, 省令準耐火), so we couldn't use it. We also couldn't find this information on any other document from Ichijo, so we asked them to provide it. (We found [another blog where they talk about the same situation](https://ismart-kurashi.com/archives/15664391.html).)
 
+Ichijo filled out and sent us the [template provided by Sony](https://www.sonysonpo.co.jp/fire/doc/scht_002.html), and we attached that to the application.
 
+After finalizing all the inputs and uploading the 3 documents, we were presented with this timeline:
+
+* TODO
+
+![Next steps after the initial application](/assets/2025-09-xx-home-insurance/SONY-next-steps.png#lb)
