@@ -103,7 +103,7 @@ I go through the Sony insurance wizard and get an estimate of 201,420 yen (for t
 
 Sony has the additional option to increase the earthquake coverage to 100% (technically it is a separate insurance that pays out the same amount as the earthquake insurance if at least half the house is destroyed). The cost of this is an extra 182,290 yen for 5 years, almost doubling the price of the insurance.
 
-Since our house is pretty earthquake and fire resistant, we decided not to take this. (Even if a big earthquake would to hit, it is unlikely that our house would get damaged to an extent where we would need this payout. If there is only minor damage, then both the cost of fixing and the insurance payout are lower, and we can cover the other 50% out-of-pocket.)
+Since our house is pretty earthquake and fire resistant, we decided not to take this. (Even if a big earthquake would to hit, it is unlikely that our house would get damaged to an extent where we would need this payout. If there is only minor damage, then both the cost of fixing and the insurance payout are lower, and we can cover the other half of the cost out-of-pocket.)
 
 ## Fine-tuning
 
@@ -119,9 +119,9 @@ In the end we decided to get these:
 | Water (typhoon, storm, floods, landslides)                                | 32,014 yen               | We are not in a flood zone, but included it for typhoon and storm coverage |
 | Water damage from burst pipes, collision with external objects, vandalism | 4,966 yen                | Included it for a potential leaking washing machine or burst pipes                      |
 | Break-in                                                                  | 720 yen                  |  It was cheap                     |
-| Personal liability compensation (for the entire family)                   | 7,161 yen                |                                                                |
+| Personal liability compensation (for the entire family, up to 300 million yen)  | 7,161 yen                |                                                                |
 
-We skipped on:
+We skipped on the following options:
 
 | Option                                                          | Premium for 5 year | Reason                                        |
 | --------------------------------------------------------------- | ------------------ | --------------------------------------------- |
@@ -132,7 +132,7 @@ We skipped on:
 
 We got an additional 500 yen discount for agreeing to only get the documents electronically.
 
-This brought our end price to 175,633 yen for the 5 years, saving us 55,000-75,000 yen compared to the first quote.
+This brought our end price to 175,633 yen for the 5 years, saving us 55,000-75,000 yen compared to the  quote from Tokyo Marine.
 
 ## Documents for the application
 
@@ -153,12 +153,20 @@ During the application process Sony asked for 3 documents to upload:
    * Long-term quality housing technical inspection certificate (長期優良住宅の技術的審査適合証)
    * Existing insurance policy from another company (他社の保険証券等) - when switching from an existing insurance
 
-We had the first (Confirmation notice and confirmation certificate) and third (Housing performance evaluation report) already. For the second we had the Building confirmation application form (建築確認申請書), but that didn't indicate our house's fire resistance (quasi-fire-resistant by ministerial ordinance, 省令準耐火), so we couldn't use it. We also couldn't find this information on any other document from Ichijo, so we asked them to provide it. (We found [another blog where they talk about the same situation](https://ismart-kurashi.com/archives/15664391.html).)
+We had the first (Confirmation notice and confirmation certificate) and third (Housing performance evaluation report) already. For the second, we had the Building confirmation application form (建築確認申請書), but that didn't indicate our house's fire resistance (quasi-fire-resistant by ministerial ordinance, 省令準耐火), so we couldn't use it. We also couldn't find this information on any other document from Ichijo, so we asked them to provide it. (We found [another blog where they talk about the same situation](https://ismart-kurashi.com/archives/15664391.html).)
 
-Ichijo filled out and sent us the [template provided by Sony](https://www.sonysonpo.co.jp/fire/doc/scht_002.html), and we attached that to the application.
+Ichijo filled out and sent us the [template provided by Sony](https://www.sonysonpo.co.jp/fire/doc/scht_002.html) in a few days, and we attached that to the application.
 
 After finalizing all the inputs and uploading the 3 documents, we were presented with this timeline:
 
-* TODO
+* Within 2 days SONY will check the uploaded documents
+* Then we can choose the payment method
+* Within 2 days SONY confirms the payment method
+* We need to pay (in case of credit card, they just charge it so this step is not necessary)
+* Everything is done
 
 ![Next steps after the initial application](/assets/2025-09-xx-home-insurance/SONY-next-steps.png#lb)
+
+It took them exactly 48 hours for the initial confirmation, then I registered my credit card on the website. The next morning they charged the card and sent the "everything is done " (契約手続完了) email.
+
+The email said that they will send the insurance certificate by mail. If you chose paperless documents (what we did), then they will send a postcard about the completion.
