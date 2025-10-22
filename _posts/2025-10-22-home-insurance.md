@@ -28,7 +28,7 @@ This does mean that if your house gets destroyed in an earthquake, the insurance
 
 Since fire insurance is the mandatory, basic block of the home insurance, a lot depends on how fireproof the house is. This depends on the building structure (建物の構造). For the calculation there is a [common flowchart used by many websites](https://hoken.kakaku.com/kasai/select/kouzou/#:~:text=%E8%A9%B2%E5%BD%93%E3%81%97%E3%81%AA%E3%81%84%E5%BB%BA%E7%89%A9-,%E6%A7%8B%E9%80%A0%E7%B4%9A%E5%88%A5%E3%81%AE%E5%88%A4%E5%AE%9A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88,-%E5%BB%BA%E7%89%A9%E3%81%AE%E6%A7%8B%E9%80%A0):
 
-![Fire resistance classification flowchart (source: https://hoken.kakaku.com)](/assets/2025-09-xx-home-insurance/kasai_kouzou_chart.png#lb)
+![Fire resistance classification flowchart (source: https://hoken.kakaku.com)](/assets/2025-10-22-home-insurance/kasai_kouzou_chart.png#lb)
 
 Which comes down to the following for single-family houses:
 
@@ -85,11 +85,11 @@ Later they called us a third time. The caller person was different, and he was o
 
 Similar to [my car insurance experience]({% post_url  2025-08-03-car-insurance %}) I took a look at [価格.com](https://kakaku.com/), the popular price comparison website. On their [home insurance section](https://hoken.kakaku.com/kasai/) I searched for the same content as we got from Tokyo Marine:
 
-![Searching on kakaku.com](/assets/2025-09-xx-home-insurance/kakaku-search.png#lb)
+![Searching on kakaku.com](/assets/2025-10-22-home-insurance/kakaku-search.png#lb)
 
 And the results didn't look very good:
 
-![Results on kakaku.com](/assets/2025-09-xx-home-insurance/kakaku-results.png#lb)
+![Results on kakaku.com](/assets/2025-10-22-home-insurance/kakaku-results.png#lb)
 
 Was the Ichijo-special Tokyo Marine offer actually a good deal? It was the cheapest but not by a big margin, so I decided to take a look on the insurance website to see if I can remove some unnecessary coverage and get it down to be competitive with Tokyo Marine.
 
@@ -165,8 +165,6 @@ After finalizing all the inputs and uploading the 3 documents, we were presented
 * We need to pay (in case of credit card, they just charge it so this step is not necessary)
 * Everything is done
 
-![Next steps after the initial application](/assets/2025-09-xx-home-insurance/SONY-next-steps.png#lb)
-
 It took them exactly 48 hours for the initial confirmation, then I registered my credit card on the website. The next morning they charged the card and sent the "everything is done " (契約手続完了) email.
 
-The email said that they will send the insurance certificate by mail. If you chose paperless documents (what we did), then they will send a postcard about the completion.
+The email said that they will send the insurance certificate by mail. If you chose paperless documents (what we did), then they will send a postcard about the completion. We got the post card the next week.
