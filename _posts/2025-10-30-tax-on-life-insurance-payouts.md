@@ -60,12 +60,16 @@ This is important because if the insurance provider doesn't offer a surrender or
 
 At 2% interest and 10 year of 150,000 yen/month of payments the present value is calculated (using the formula [from the earlier guide](https://www.nta.go.jp/publication/pamph/sozoku/pdf/teikikin.pdf)):
 
-<!-- (1-(1/(1+r)^n)) / r = (1-(1/((1.02)^10)))/0.02 = 8.98 -->
-
+<!-- 
 ```math
 \frac{1 - \left(\frac{1}{(1 + r)^n}\right)}{r}
 = \frac{1 - \left(\frac{1}{(1.02)^{10}}\right)}{0.02}
 = 8.98
+```
+ -->
+
+```
+(1-(1/(1+r)^n)) / r = (1-(1/((1.02)^10)))/0.02 = 8.98
 ```
 
 * `r`: interest
@@ -81,7 +85,7 @@ So out of the 18 million yen overall payment, 8% of it, so 18*0.08=1.44 million 
 
 This gets split between the years like this:
 
-![Taxable portion per year (source: https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1620.htm)](/assets/2025-10-30-tax-on-life-insurance-payouts/taxable-per-year.gif)
+![Taxable portion per year (source: https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1620.htm)](/assets/2025-10-30-tax-on-life-insurance-payouts/taxable-per-year.gif#lb)
 
 First year the taxable portion is 0, then 1 unit, then 2 units, etc. Over 10 years the overall number of units is 1+2+3+4+5+6+7+8+9=45, so each unit corresponds to 1,440,000/45=32,000 yen of taxable income. So over the years the taxable portion goes like this:
 
