@@ -133,7 +133,6 @@ We [are getting a custom kitchen]({% post_url 2025-04-12-custom-kitchen-with-ich
 
 I don't yet have any plans on how to use this, but let's see.
 
-
 ## Summary
 
 So these are the smart home options that we decided to add to our house. I will post a follow-up write-up after we moved in and configured all of these, but that will likely be next year.
