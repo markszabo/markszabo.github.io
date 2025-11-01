@@ -76,6 +76,8 @@ This also brought us to the list of things that don't yet work:
 
 During the constructions they were using the construction keys to open the door (these look like regular keys, but they are different from the final keys). As part of the handover, I got to open the sealed bag of the final keys, then use them to lock and unlock the door once. After this the constructions keys no longer worked (we verified this).
 
+We also got the radio keys as an additional option: so we can keep the key in our pocket and simply press a button on the door to lock/unlock it (similar to how modern cars work). We were told to never leave the keys near the door even inside, as if the door detects them, then anyone can open the door even from outside. The best is to place them in a Faraday cage box that blocks all radio waves, so we will get one of those. (This is also nice for the car's key, as [relay attacks](https://leasing.com/guides/relay-car-theft-what-is-it-and-how-can-you-avoid-it/) are becoming common even in Japan.)
+
 ### Minor mechanical equipments
 
 We also checked how the locks on the windows work, how the insect screens open, how the cloth lines can be used, how the door to the loft storage opens, and how the underfloor storage worked. No surprises, more like making sure we will be able to use everything from day 1.
