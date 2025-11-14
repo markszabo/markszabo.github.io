@@ -53,21 +53,29 @@ First day I went from Tokyo to Numazu, covering 128 km. For the most part the ro
 
 ![Hakone, Mt.Fuji, and my bike. Totally worth the 834m climb](/assets/2025-11-14-cycling-all-around-japan/hakone.jpg#lb)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="4768885123" data-style="standard"></div>
+
 Second day was spent following the ocean from Numazu to Hamamatsu. 136km, riding from 7:30 to 5pm. I could even do a bit of a sightseeing in Hamamatsu (they have a castle).
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="4773900007" data-style="standard"></div>
 
 Third day was from Hamamatsu to North of Nagoya, 129 km, nice views, fun ride. Leaving the ocean behind, but still mostly flat.
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="4778769058" data-style="standard"></div>
+
 Since I was doing more than 100 km each day, by the fourth day I had about 140 km left. My original plan was to take it easy and split it into two days, but the weather forecast was becoming rainy for the 5ht day, so I decided to push through and went all the way to Kyoto on the last day, covering the reamining 140 km.
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="4784019905" data-style="standard"></div>
 
 Overall this was the breakdown of the trip:
 
-|         | Distance  | Elevation | Moving time | Elapsed time | Average speed | Strava link                                                                                  |
-| ------- | --------- | --------- | ----------- | ------------ | ------------- | -------------------------------------------------------------------------------------------- |
-| Day 1   | 127.93 km | 1432 m    | 6:48:53     | 8:43:31      | 18.8 km/h     | [https://www.strava.com/activities/4768885123](https://www.strava.com/activities/4768885123) |
-| Day 2   | 135.96 km | 597 m     | 7:24:09     | 9:13:28      | 18.4 km/h     | [https://www.strava.com/activities/4773900007](https://www.strava.com/activities/4773900007) |
-| Day 3   | 128.84 km | 625 m     | 7:12:24     | 9:33:12      | 17.9 km/h     | [https://www.strava.com/activities/4778769058](https://www.strava.com/activities/4778769058) |
-| Day 4   | 137.74 km | 552 m     | 7:10:00     | 9:50:05      | 19.2 km/h     | [https://www.strava.com/activities/4784019905](https://www.strava.com/activities/4784019905) |
-| Overall | 530.47 km | 3206 m    | 4:35:26     | 13:20:16     | 18.6 km/h     |                                                                                              |
+|         | Distance  | Elevation | Moving time | Elapsed time | Average speed |
+| ------- | --------- | --------- | ----------- | ------------ | ------------- |
+| Day 1   | 127.93 km | 1432 m    | 6:48:53     | 8:43:31      | 18.8 km/h     |
+| Day 2   | 135.96 km | 597 m     | 7:24:09     | 9:13:28      | 18.4 km/h     |
+| Day 3   | 128.84 km | 625 m     | 7:12:24     | 9:33:12      | 17.9 km/h     |
+| Day 4   | 137.74 km | 552 m     | 7:10:00     | 9:50:05      | 19.2 km/h     |
+| Overall | 530.47 km | 3206 m    | 4:35:26     | 13:20:16     | 18.6 km/h     |
 
 It was a challenge, and I really enjoyed it. Although on the way back from Kyoto, I opted for the shinkansen. It was fun to do it once, but not sure if I would have enjoyed it if I had to do it again.
 
@@ -86,7 +94,7 @@ This gave me a challenge: how many prefectures can I reach on bike in a single d
 * Reaching Gunma for a `Danbe Yogurt Mango Frappuccino® Blended Cream` (a fancy mango yoghurt)
 * Finishing the day with a `Raisama Pachipachi Chocolate Frappuccino® Blended Cream` in Tochigi, before catching the train back to Tokyo
 
-Overall it still took 180 km and a full day to cover all of this. But the hardest part wasn't the distance, or the navigation, but the fact that I drunk all 6 of the drinks. Each of them being up to 500 kcalories of pure sugar messed with my body in a way no other bike ride did. So this ride goes to the list of things that was fun once, but I won't do it again.
+Overall it still took 180 km and a full day to cover all of this. But the hardest part wasn't the distance, or the navigation, but the fact that I drunk most of the drinks. Each of them being up to 500 kcalories of pure sugar messed with my body in a way no other bike ride did. So this ride goes to the list of things that was fun once, but I won't do it again.
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="5603589307" data-style="standard"></div>
 
