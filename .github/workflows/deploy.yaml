@@ -2,6 +2,16 @@ name: Deploy site to GitHub Pages
 
 on:
   push
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: "Whether to deploy the site"
+        default: "true"
+        required: false
+      send-newsletter:
+        description: "Whether to send the newsletter"
+        default: "false"
+        required: false
 
 permissions:
   contents: read
@@ -27,14 +37,14 @@ jobs:
           verbose: true
 
       - name: Upload artifact
-        if: github.ref == 'refs/heads/main' 
+        if: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/main') || github.event.inputs.deploy == 'true' }}
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./_site
 
   deploy:
     needs: build
-    if: github.ref == 'refs/heads/main' 
+    if: (github.event_name == 'push' && github.ref == 'refs/heads/main') || github.event.inputs.deploy == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -45,6 +55,7 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Send newsletters about the new post
+        if: ${{ github.event_name == 'push' || github.event.inputs.send-newsletter == 'true' }}
         run: |
           echo "✅ Deployment finished"
           echo "Sending newsletters"
