@@ -41,17 +41,13 @@ A ride of this length takes a lot of time, so I started shortly before 6am on an
 
 The ride was really fun: great roads, mostly flat (since it follows the lake), beautiful scenery. But it also showed me that riding for 10 hours is very tiring and it also gets boring. There is only so many podcasts one can listen to in a day.
 
-![Road is well marked and follows the lake](/assets/2025-11-14-cycling-all-around-japan/biwaichi.jpg#lb)
-
 ## Longest multi-day ride: Tokyo to Kyoto in 4 days
 
 I had a 5 day weekend, and wanted to go to Kyoto, so decided to go by bike. The Kyoto-Tokyo road was important historically, and [there were multiple routes](https://en.wikipedia.org/wiki/Edo_Five_Routes). One of them, Tokaido, follows the ocean. (This is also where the Tokaido Shinkansen goes, hence its name.) I decided to follow this route myself as well.
 
 The distance is around 500 km, so I was planning to do it in 5 days, 100 km per day. But to keep a bit of flexibility for later days, I started with a bit more than 100. This was still during COVID, and Japan didn't allow foreign tourists, so most hotels were empty. This let me decide in the morning how far I will go, and book the hotel for the next night.
 
-First day I went from Tokyo to Numazu, covering 128 km. For the most part the route follows the ocean, however here I had to cross the Izu peninsula (the shinkansen has a tunnel for this). So I had to climb up to Hakone. This meant an elevation of over 1,400m during the day, which was a bit rough. But at least I could take a photo of my bike in Hakone with the snow-covered Mt.Fuji in the background:
-
-![Hakone, Mt.Fuji, and my bike. Totally worth the 834m climb](/assets/2025-11-14-cycling-all-around-japan/hakone.jpg#lb)
+First day I went from Tokyo to Numazu, covering 128 km. For the most part the route follows the ocean, however here I had to cross the Izu peninsula (the shinkansen has a tunnel for this). So I had to climb up to Hakone. This meant an elevation of over 1,400m during the day with a 834m long climb to Hakone. This was pretty rough. But at least I could take a photo of my bike in Hakone with the snow-covered Mt.Fuji in the background:
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="4768885123" data-style="standard"></div>
 
@@ -106,6 +102,6 @@ So after about 2 years of not using the bike at all, I felt bad that the bike wa
 
 So I decided to sell my road bike. I asked an online store, [Bici Amore](https://biciamore.jp/) for an estimate, and they said 30,000 to 45,000 yen, depending on the condition. My wife posted it to [Jimoty](https://jmty.jp/) and someone bought it for 50,000 yen.
 
-As I was riding it to the handover location, I remembered back to all the great rides I had, and I was happy.
+As I was riding it to the handover location, I remembered all the great rides I had, and I was happy to have had all these adventures.
 
 <script src="https://strava-embeds.com/embed.js"></script>
