@@ -55,9 +55,9 @@ After adding a few cables, the total price was 100,743 yen. Pretty pricey, but h
 
 After setting it all up, the information box looked like this:
 
-![Black box on the right is the ONU, egg in the middle is the Dream Router, switch is on the top. The black box with red dot on the left is Ichijo's 4G modem that the solar panel connects to](/assets/2025-11-15-home-network/infobox.jpg#lb)
+![Black box on the right is the ONU, egg in the middle is the Dream Router, switch is on the top. The black box with red dot on the left is Ichijo's LTE modem that the solar panel connects to](/assets/2025-11-15-home-network/infobox.jpg#lb)
 
-*Side note*: the information box came with a 4G modem that Ichijo connected to the solar panel. Ichijo told me that this is used to monitor the solar panel (I can do it via their app, but also they also do it). I can connect this to my home network (as long as it can reach the internet), but some of their customers don't have internet at home, so they just give this to everyone. The SIM has a 10 year contract, and after that they ask people to connect to their own network. I checked, but the 4G modem doesn't offer full internet access. It is probably limited to accessing Ichijo's servers or might need some proxy config, I didn't look into it.
+*Side note*: the information box came with an LTE modem that Ichijo connected to the solar panel. Ichijo told me that this is used to monitor the solar panel (I can do it via their app, but also they also do it). I can connect this to my home network (as long as it can reach the internet), but some of their customers don't have internet at home, so they just give this to everyone. The SIM has a 10 year contract, and after that they ask people to connect to their own network. I checked, but the LTE modem doesn't offer full internet access. It is probably limited to accessing Ichijo's servers or might need some proxy config, I didn't look into it.
 
 ## Speed test
 
