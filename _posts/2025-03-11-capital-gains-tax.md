@@ -66,12 +66,9 @@ Summarizing the above for the simple case of buying once and then selling it all
 
 ### Calculate the tax
 
-So once we know how much money we made (the capital gains) we can calculate the amount of tax due. Here Japan offers two methods of taxation that we can choose from ([source](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2024/17.pdf)):
+\[edit on 2025. Nov 23.\]: an earlier version of this post incorrectly said that capital gains have two taxation method one can choose from. In reality, tha choice is only available for dividend income: [source](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2024/17.pdf). Thanks to [starkimpossibility over at JapanFinance for catching this mistake](https://www.reddit.com/r/JapanFinance/comments/1p3ra3p/comment/nqa6mj1/).
 
-* Separate Self-assessment Taxation (分離申告課税): capital gains are taxed at a flat 15% rate, regardless of other income
-* Aggregate Taxation (総合課税): capital gains are added to other income and taxed together at the normal, progressive income tax rate
-
-The progressive income tax rate changes from 10% to 20% at 3,300,000 yen of income, so if one's income (including the capital gains) is under this (after deductions), then the aggregate taxation is better, otherwise (so likely for the majority of the cases) the separate taxation is better.
+In principal, capital gains are taxed at a flat 15% rate, regardless of other income.
 
 One more thing: after the Great East Japan Earthquake of 2011, an additional tax was introduced to help fund recovery efforts. This is called the "Special Income Tax for Reconstruction" (復興特別所得税) and it adds an additional 2.1% on top of all income tax. So the 15% becomes 15*1.021=15.315%. This additional tax was introduced in 2013 and is currently set to continue until 2037 ([source](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2024/04.pdf)).
 
