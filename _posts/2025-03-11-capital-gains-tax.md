@@ -66,7 +66,7 @@ Summarizing the above for the simple case of buying once and then selling it all
 
 ### Calculate the tax
 
-\[edit on 2025. Nov 23.\]: an earlier version of this post incorrectly said that capital gains have two taxation method one can choose from. In reality, tha choice is only available for dividend income: [source](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2024/17.pdf). Thanks to [starkimpossibility over at JapanFinance for catching this mistake](https://www.reddit.com/r/JapanFinance/comments/1p3ra3p/comment/nqa6mj1/).
+\[edit on 2025. Nov 23.\]: an earlier version of this post incorrectly said that the capital gains have two taxation method one can choose from. In reality, that choice is only available for dividend income: [source](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2024/17.pdf). Thanks to [starkimpossibility over at JapanFinance for catching this mistake](https://www.reddit.com/r/JapanFinance/comments/1p3ra3p/comment/nqa6mj1/).
 
 In principal, capital gains are taxed at a flat 15% rate, regardless of other income.
 
