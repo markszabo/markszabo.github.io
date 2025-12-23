@@ -72,3 +72,11 @@ The Dream Router has a built-in functionality to do a speed test which reports 3
 Testing the speed on the WiFi gave me 800 Mbps down, 350 Mbps up on both floors, which is very good.
 
 There is one potential issue: my office is next to the kitchen, and we covered that wall with a metal plate so that magnetic tools (hooks, shelves, etc.) can be attached to it. This seems to block some of the radio waves, making the WiFi slower in the LDK. If this becomes an issue, then I will need to add another WiFi AP in the living room (there is an Ethernet port behind the TV, so I can use that), and with that we will have full coverage of the second floor. But until this becomes an issue, we will use it as-is.
+
+## Update after 1 month
+
+One month after moving this indeed became an issue: the magnetic wall is blocking some of the radio, but normally it still worked fine. However right at the edge of the magnetic wall is the microwave oven, directly in the line from the WiFi AP to the TV. Our TV itself is not smart, so we use an older Chromecast. The end result of this setup was that when the microwave was running, then Chromecast would loose connectivity and the video stream would soon stop.
+
+I didn't go into debugging whether it's because the Chromecast only supports 2.4 GHz, or if it would support 5 GHz but the magnetic wall is messing with that. We had an ethernet port behind the TV anyway, so I just added one more WiFi Access Point there. Since I was already using this port for an [OSMC](https://osmc.tv/) server, I got a [U7 In-Wall](https://techspecs.ui.com/unifi/wifi/u7-iw?s=jp) which offers two output Ethernet ports, letting me continue to have the OSMC on wired network.
+
+I paid 28,360 yen for this (including a few extra cables) bringing the cost of the overall setup to 129,103 yen.
