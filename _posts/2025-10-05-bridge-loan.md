@@ -39,3 +39,20 @@ Thus we decided to keep their regular loan, which doesn't have the 10% limit, bu
 The solution is to take out another loan to cover the timing difference between the payments to the builder, and the time the mortgage is available. Since here the risk is about the building company going bankrupt, the bank didn't ask for any major documents from me, and it was all handled through Ichijo. Suprisingly this was done with Mizuho bank (みずほ銀行), a bank other than the mortgage. More on bridge loans on the various bank websites, [for example Mizuho](https://www.mizuhobank.co.jp/loan_housing/faq/loanguide/tips/article12/index.html#:~:text=%E3%81%A4%E3%81%AA%E3%81%8E%E8%9E%8D%E8%B3%87%E3%81%A8%E3%81%AF%E3%80%81%E4%BD%8F%E5%AE%85,%E3%81%AE%E3%81%8C%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%A7%E3%81%99%E3%80%82).
 
 The bridge loan has a higher risk, so the interest is also higher than mortgage. For us it was 2.025% (compared to the current 0.72% rate on our mortgage), however since it only goes for half year, the actual interest we will pay should be only around 200,000 yen.
+
+## [update] Closing calculations
+
+In the end [we had a minor delay in the payout of our mortgage]({% post_url 2025-11-02-delay-in-the-mortgage %}) so our bank sent the money to Ichijo towards the end of November, and Ichijo paid back the bridge loan the next day.
+
+The bridge loan had the three parts described above, and each of those incurred interest for their respective times charged at the yearly rate of 2.025% prorated to the length of the loan:
+
+| Installments | Amount      | Interest |
+| ------------ | ----------- | -------- |
+| End of April   | ¥11,700,000 | ¥137,259 |
+| Mid July   | ¥11,900,000 | ¥86,258  |
+| End of October   | ¥11,800,000 | ¥18,957  |
+| Overall |  | ¥242,474 |
+
+So in the end we paid 242,474 yen in interest for the bridge loan. In addition, we were also charged 800 yen for for stamp duty (400 yen once, 200 yen twice).
+
+Overall the whole process was handled by Ichijo. We only had to fill out the initial application form (that our Ichijo contact brought to our apartment), and the rest was handled by Ichijo, including paying back the loan.
