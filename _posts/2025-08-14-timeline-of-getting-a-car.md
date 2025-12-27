@@ -63,7 +63,7 @@ A few days after signing the contract I sent [the price of the car]({% post_url 
 
 We checked earlier if our mansion had available parking, but only rented it now. They were pretty fast and we could get the keys in a week. They also provided the papers to give to the police for the parking certificate.
 
-## 1.5 weeks before: apply for the parking certificate
+## 1.5 weeks before: apply for the parking certificate (車庫証明書)
 
 The dealership offered to do this for us, but they would have charged us 18,700 yen for it, and it would have taken longer, so we decided to do it ourselves. The dealership provided us with the form, and prefilled the car specific details (chassis number, size), so we just had to attach the papers about the parking place (from the building management company), and bring it to the police station.
 
