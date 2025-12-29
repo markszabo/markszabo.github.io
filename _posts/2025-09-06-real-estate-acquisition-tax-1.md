@@ -56,4 +56,6 @@ We already received the Tokyo Zero-Emission Housing Design Confirmation (東京�
 
 So we called the tax office and they told us to return the tax return with the current information (we are building a house, expected to be ready by November, expected to have zero-emi 水準A), then in November once we have the Tokyo Zero-Emission Housing Certification (東京ゼロエミ住宅認証書), then apply for the full exemption. They also told us that essentially as long as the header of the filing is correct (my name, land address), the rest is fine to have some mistakes, since they will finalize it once the house is built.
 
-I will post a part2 of this once we finalize applying for the exemption, but I expect it won't be too complicated.
+## Submitting the exemption application
+
+A few weeks after the house was ready we got the Tokyo Zero-Emission Housing Certification (東京ゼロエミ住宅認証書), so we filled out the [exemption request form](https://www.tax.metro.tokyo.lg.jp/documents/d/tax/zero_emi_chirashi0610) (不動産取得税減免申請書) and sent it to the tax office. They should only contact us if there is some issue, so hopefully this is the end of this story.
