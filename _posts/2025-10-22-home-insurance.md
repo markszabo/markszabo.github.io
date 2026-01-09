@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Home insurance in Japan"
-tags: housing japan money
+tags: housing japan money insurance
 ---
 
 We are building our house in Tokyo, and as the construction is coming to an end, we looked into home insurance.

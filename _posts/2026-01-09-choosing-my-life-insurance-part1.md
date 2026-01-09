@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing my life insurance - part 1
-tags: japan money
+tags: japan money insurance
 ---
 
 I [wrote about the types of life insurance a while back]({% post_url 2023-11-23-a-look-at-life-insurance-in-japan %}) and recently decided to sign up for one. In this post I will share my process of choosing it. Well, the first half of it, because in the end I couldn't completed the sign-up online.

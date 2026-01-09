@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tax on life insurance payouts in Japan
-tags: japan money
+tags: japan money insurance
 ---
 
 A while back I took a look at [life insurance in Japan]({% post_url 2023-11-23-a-look-at-life-insurance-in-japan %}) and now I'm getting close to actually buying one. As I was thinking about the coverage to get, I looked into how these payouts are taxed (since I care about the net payouts).

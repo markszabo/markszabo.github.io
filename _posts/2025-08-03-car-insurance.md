@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Car insurance in Japan"
-tags: car japan money
+tags: car japan money insurance
 ---
 
 We [recently bought a second-hand minivan]({% post_url  2025-07-21-how-to-buy-a-second-hand-car %}) and in this post I'll describe what I learned about car insurance, and our experience signing up for one.
