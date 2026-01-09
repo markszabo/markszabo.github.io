@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disability insurance in Japan
-tags: japan money
+tags: japan money insurance
 ---
 
 I [wrote about life insurance a while back]({% post_url 2023-11-23-a-look-at-life-insurance-in-japan %}) and getting ready to purchase one. When I [asked about it at r/JapanFinance](https://www.reddit.com/r/JapanFinance/comments/1q1s5pj/opinions_on_income_protection_insurance_%E5%8F%8E%E5%85%A5%E4%BF%9D%E9%9A%9C%E4%BF%9D%E9%99%BA/), multiple people recommended also getting disability insurance [so I started a new thread about that](https://www.reddit.com/r/JapanFinance/comments/1q2ug8l/thoughts_on_disability_insurance_%E5%B0%B1%E6%A5%AD%E4%B8%8D%E8%83%BD%E4%BF%9D%E9%99%BA/), took a look into it in detail, and will be sharing what I found here.
