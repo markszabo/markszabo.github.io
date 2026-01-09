@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A look at life insurance in Japan
-tags: japan money
+tags: japan money insurance
 ---
 
 I'm starting a family, so I've been recently thinking about life insurance to ensure they won't have financial hardship if I pass early.
