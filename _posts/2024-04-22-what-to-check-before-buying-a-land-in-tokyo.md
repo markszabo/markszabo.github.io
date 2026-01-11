@@ -125,4 +125,3 @@ However what the real estate agent failed to mention  is that by being on an urb
 Some areas are marked as Fire Protection Districts (防火地域) or Quasi-Fire Protection District (準防火地域), and buildings in these are required to fulfill stronger fire resistance rules. This rules out some windows (especially big ones), might require you to install shutters, and generally increases the costs.
 
 For Ichijo, I'm not sure if it changes their design or windows options, and it only adds slightly to the costs. After talking with a friend who built a similar size house around the same time in a Quasi-Fire Protection District (準防火地域) area, their base price (建物本体工事御見積書, Main building construction) was only ~2% higher for making it semi fire-proof (準耐火仕様) compared to ours, so it doesn't seem to make that much of a difference.
-
