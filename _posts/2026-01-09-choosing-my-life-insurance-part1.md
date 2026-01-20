@@ -110,3 +110,5 @@ They were more expensive, but otherwise looked good (sans the website design), a
 ## Alternative 2: go to an insurance broker in person
 
 I'm better explaining things in person than on the phone, and it seems that the main way life insurance is sold in Japan is through insurance brokers (which is also why most providers don't allow online sign-ups). So my plan is to give that a try and see. The biggest risk here is that legally I have to fully understand the contract I'm signing, and if they want to be very strict about that, then they might reject my application. I hope that by doing my homework and going prepared, I can convince them that I understand it as well as their regular customers (who probably also don't understand every single technical term in it). Or that they are willing to bend the rules, since they are probably paid by commission on closed sales, so as long as I'm not a risk for them, they might decide to be helpful.
+
+Continue with [part 2 here]({% post_url 2026-01-20-choosing-my-life-insurance-part2 %}).
