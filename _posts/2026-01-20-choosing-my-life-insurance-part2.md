@@ -109,3 +109,7 @@ I also asked about increasing the coverage: if inflation would to be higher than
 ## Next
 
 By the end of the meeting we finalized everything and signed up for the life insurance. Content and fee is exactly the same as [I wanted it]({% post_url 2026-01-09-choosing-my-life-insurance-part1 %}). The insurance company has 10 days to review all the submitted documents, and they might ask for additional info. But all of these will go through the insurance agent, which I'm happy for (he already has my details and knows my level of Japanese). If the insurance company is fine with everything, then coverage started on the day I signed the contract.
+
+## Update
+
+8 days after the meeting I received a text message from the insurance company telling me that the contract has been finalized, and they will be sending the insurance policy by mail soon. After this message I could also login in their app, [FWD Omne](https://www.fwdlife.co.jp/omne/), and confirmed my information there. This is also where I can update my credit card in the future.
