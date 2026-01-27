@@ -90,4 +90,4 @@ This was a 2025 model, so it was a bit more expensive than the original one, but
 
 ## Final thoughts
 
-Overall I'm really happy that we went with Palgreen for the garden construction. Their support in designing the garden was super helpful and their ideas proving to be very useful. They did run into a few weeks delay and didn't communicate it well, but otherwise no complaints. I would recommend them to anyone.
+Overall I'm really happy that we went with Palgreen for the garden construction. Their support in designing the garden was super helpful and their ideas proving to be very useful. They did run into a few weeks delay and didn't communicate it well, but otherwise no complaints. I would recommend them to anyone, so [drop them a message](https://www.palgreen.info/%E8%A4%87%E8%A3%BD-%E6%9D%A5%E5%BA%97%E7%9B%B8%E8%AB%87%E4%BA%88%E7%B4%84) if you are looking for a company like this.
