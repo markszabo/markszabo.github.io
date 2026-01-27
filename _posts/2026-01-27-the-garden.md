@@ -17,7 +17,7 @@ Similar to most of Tokyo, our land is pretty small, so doesn't leave that much s
 * a mailbox with locker for parcels (宅配ボクス)
 * some tree or other greenery, if possible
 
-![The way AI imagined the front of our house](/assets/2026-01-28-the-garden/front.jpg#lb)
+![The way AI imagined the front of our house](/assets/2026-01-27-the-garden/front.jpg#lb)
 
 I thought this was a pretty basic idea. Later we learned that the "basic idea" is to have concrete in the front, gravel in the back, and call it a day.
 
@@ -80,11 +80,11 @@ We also got a fully itemized list of things that they used during the constructi
 
 These are very common in Japan. Next to your regular mailbox, you also get a box for parcels: it can be locked without the key (by the delivery person) but you need a key to open it.
 
-![A common setup: nameplate, interphone, mailbox, parcel box](/assets/2026-01-28-the-garden/takuhai.jpg#lb)
+![A common setup: nameplate, interphone, mailbox, parcel box](/assets/2026-01-27-the-garden/takuhai.jpg#lb)
 
 Our original design had the same model included, but I decided to change it in the end. So my problem with the original setup was that the mailbox and the parcel box would open with separate keys. So when I'm coming home, I have to get two keys out, and unlock to locks. After sharing this concern with Palgreen, they suggested a new model from Panasonic: [Combo Multi (ポスト一体型宅配ボックス コンボマルチ)](https://sumai.panasonic.jp/exterior/takuhai/combo/combo_multi.html). This solves the problem by using a pin to unlock (instead of a key) and having a single door on the back for both the postbox and the parcel box. It even has a version that has two sections for parcels, but you can also have a single, bigger section.
 
-![Combo Multi: letters and packages can be delivered from the front, and removed from the back](/assets/2026-01-28-the-garden/combo_multi.jpeg#lb)
+![Combo Multi: letters and packages can be delivered from the front, and removed from the back](/assets/2026-01-27-the-garden/combo_multi.jpeg#lb)
 
 This was a 2025 model, so it was a bit more expensive than the original one, but after using it for a few months, I can confidently say that it was totally worth it. It takes me only a few seconds to check if we got mail or parcel, and it also looks better. (I really like the sleek design.)
 
