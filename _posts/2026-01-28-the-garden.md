@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Making of the garden of our new house"
+title: "The garden of our new house"
 tags: housing japan
 ---
 
-We recently built our home in Tokyo with [Ichijo]({% post_url 2025-05-24-ichijo-referral %}). One thing that surprised me was that the house maker companies only build the house itself, and leave the outside to another company. This was the case with Ichijo too, so we had to arrange the outside construction with another company.
+We [recently built our home in Tokyo with Ichijo]({% post_url 2025-05-24-ichijo-referral %}). One thing that surprised me was that the house maker companies only build the house itself, and leave the outside construction to another company. This was the case with Ichijo too, so we had to arrange the garden with another company.
 
 <!--break-->
 
@@ -17,7 +17,7 @@ Similar to most of Tokyo, our land is pretty small so doesn't leave that much sp
 * a mailbox with locker for parcels (宅配ボクス)
 * some tree or other greenery, if possible.
 
-![The way AI imagined the front of our house](/assets/2025-12-xx-the-garden/front.jpg#lb)
+![The way AI imagined the front of our house](/assets/2026-01-28-the-garden/front.jpg#lb)
 
 I thought this was a pretty basic idea. Later we learned that the "basic idea" is to have concrete in the front, gravel in the bank, and call it a day.
 
