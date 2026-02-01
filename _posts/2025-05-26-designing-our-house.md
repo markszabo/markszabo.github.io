@@ -52,7 +52,7 @@ With the 2 months delay our final schedule looked like this:
 * December 9: 12th layout. Almost there, finalizing lights.
 * January 9: 13th layout. We spent New Years with the in-laws, and they pointed out that the kitchen is only about 2m away from the toilet door. We spent the rest of the holiday coming up with new layouts until we found one that was the best, and shared it with the architect on January 9.
 * January 23: 14th layout, based on our new idea. Works really well.
-* February 7: 15th layout. Still figuring out the kitchen counter a bit, and moving some doors, but the walls are the same as in the final design. Meanwhile working hard to finalize all the electrical stuff (as we kept changing the layout until now and we care about lights). We had two sessions with [a lighting designer](https://coconala.com/users/1921513/) to get advice. (I [wrote about the lights here]({% 2026-02-01-lights-for-our-house %}).)
+* February 7: 15th layout. Still figuring out the kitchen counter a bit, and moving some doors, but the walls are the same as in the final design. Meanwhile working hard to finalize all the electrical stuff (as we kept changing the layout until now and we care about lights). We had two sessions with [a lighting designer](https://coconala.com/users/1921513/) to get advice. (I [wrote about the lights here]({% post_url 2026-02-01-lights-for-our-house %}).)
 * February 19: 16th layout, final meeting to confirm everything. Usually at this point only minor changes are made, but we make like 200 requests (including adding a new window to the bathroom, and redefining the floorheating zones).
 
 This concluded the design phase, and we are looking at a construction schedule of:
