@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deciding the lights for our new house"
-tags: housing japan money
+tags: housing japan
 ---
 
 We recently [bought land]({% post_url 2025-04-13-buying-a-land %}) and [built our home in Tokyo]({% post_url 2025-05-24-ichijo-referral %}). I [wrote about the general design process]({% post_url 2025-05-26-designing-our-house %}), and in this post I will write about how we decided our lights. We have moved in 2 months ago, so I will also reflect on how well our ideas are working out so far.
