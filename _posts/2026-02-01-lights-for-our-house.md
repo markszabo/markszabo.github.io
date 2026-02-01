@@ -84,7 +84,7 @@ We didn't add a window in either toilet, but if you have a window, then this can
 
 ## Smart lights
 
-I [looked into smart lighting options in Japan]({% post_url 2024-07-28-smart-lights-overview %}), tested the [Panasonic Advanced Series Link Plus switches]({% 2024-11-10-panasonic-advance-series-link-plus %}), and got it for our house. So all switches (except the toilet and bath) are smart and can be controlled via HomeAssistant.
+I [looked into smart lighting options in Japan]({% post_url 2024-07-28-smart-lights-overview %}), tested the [Panasonic Advanced Series Link Plus switches]({% post_url 2024-11-10-panasonic-advance-series-link-plus %}), and got it for our house. So all switches (except the toilet and bath) are smart and can be controlled via HomeAssistant.
 
 This is turning out to be more useful than expected: after moving in we realized that some light switches are hard to reach, e.g. the kitchen counter's switch is only in the corner of the kitchen, so when leaving and turning off everything, it is a bit inconvenient. But since it's smart, I could add a simple [IKEA Zigbee button](https://www.ikea.com/jp/en/p/styrbar-remote-control-smart-white-10488364/) to create a secondary switch. Since the use-case is turning off all lights on the floor, I configured one of the buttons to do just that (off all lights).
 
