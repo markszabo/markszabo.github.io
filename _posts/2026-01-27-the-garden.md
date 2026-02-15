@@ -76,7 +76,11 @@ Here is the breakdown of the costs:
 
 We also got a fully itemized list of things that they used during the construction.
 
-## Mailbox with locker for parcels (宅配ボクス)
+## Design ideas
+
+Overall I think our setup is pretty simple. Still, here are some things we did that I would recommend to others.
+
+### Mailbox with locker for parcels (宅配ボクス)
 
 These are very common in Japan. Next to your regular mailbox, you also get a box for parcels: it can be locked without the key (by the delivery person) but you need a key to open it.
 
@@ -87,6 +91,22 @@ Our original design had the same model included, but I decided to change it in t
 ![Combo Multi: letters and packages can be delivered from the front, and removed from the back](/assets/2026-01-27-the-garden/combo_multi.jpeg#lb)
 
 This was a 2025 model, so it was a bit more expensive than the original one, but after using it for a few months, I can confidently say that it was totally worth it. It takes me only a few seconds to check if we got mail or parcel, and it also looks better. (I really like the sleek design.)
+
+### Stroller-friendly stairs
+
+The entrance of most houses are higher than ground level, so there are usually a few steps. Combine this with a usually small genkan, and using a stroller/baby-car becomes difficult. So instead of simple stairs, we got long steps where the stroller can take one step at a time. Something like this:
+
+![Stroller-friendly stairs at the entrance](/assets/2026-01-27-the-garden/stairs.jpg#lb)
+
+### Plan for bicycles
+
+I'm a firm believer that bicycles are the best way to get around in any big city, and this is double true for kids that can't yet drive. You might not go as far as we did with the cycle port, but at least have some plan on where the bikes will be parked. I have seen some houses where the bikes were parked around the car, and that looks pretty inconvenient for users of both the car and the bikes.
+
+### Use all available space
+
+Gardens in Tokyo are small, which is made even worse by garden companies that are keen on covering most of it with gravel. If possible, consider building a wood deck or have some (artificial) grass instead. We got some artificial grass next to our house, and it gives the kids one more place to play.
+
+We were considering artificial grass vs real grass, as the latter is cheaper to make, but decided with the former to reduce the ongoing work: I really don't feel like watering and mowing a lawn that's smaller than our living room.
 
 ## Final thoughts
 
