@@ -98,3 +98,7 @@ In the end this left us with a yearly insurance fee of 40,750 yen, which I'm pre
 Once the dealer completed the paperwork for our car and sent us the 車検書 (shakensho), we input the details from that (chassis number, license plate), and finalized the insurance contract on their website. As the last step we paid by credit card (we paid the full year at once, as paying it monthly would be 10% more expensive).
 
 The overall process was easy and clear, and this is one more reason I liked AXA. Comparing it to Mitsumori (where I had the corporate discount): while they had the easy estimate website, the next step was to call them and based on other's experience, the call usually takes an hour.
+
+## Friend referral
+
+AXA has a [friend referral program (ご家族・お友達ご紹介プログラムとお客さまページ複数契約割引)](https://www.axa-direct.co.jp/auto/contractor/mgm_mpdc.html) that gives 1,000 yen discount to both you and me, if you sign-up using my code. Start the sign-up from [this link](https://www.axa-direct.co.jp/qb/html/?CampaignCode=7021#/mgm?mgmId=M2023066040235) or use my referral code directly: `M2023066040235`.
