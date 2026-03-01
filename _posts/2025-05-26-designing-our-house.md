@@ -138,7 +138,7 @@ This is all great, but finding a place for the central unit for this system was 
 
 It took a lot of work to find a place for this where it is not in the way, but still follows all these rules.
 
-### Summary
+## Summary
 
 Those were most of the rules of designing the house. Our architect was excellent at knowing about these and guiding our design to ensure we follow them. However He was less strong in suggesting us good design ideas. Apart from the initial design, he mainly waited for us to come up with ideas, and then he would work those into the layout.
 
@@ -148,3 +148,5 @@ Things we would do differently next time:
 
 * hire an additional architect or interior coordinator to advice on the design. Probably a freelancer like the lighting advisor would be enough
 * bring concrete layout ideas from the early meetings, instead of just telling our opinions about the layout. It could have saved a lot of back-and-forth, as e.g. we thought about moving the bathroom to a different floor, architect comes back in 3 weeks, shows the design, it just doesn't work there, so we ask to revert it. By the end of the design phase, we were coming up with layouts ourselves, and that allowed a much faster iteration on ideas, letting us only bring more polished ideas to the architect
+
+This post focused mainly on the process of designing our home. I have written separate posts [about the design itself]({% post_url 2026-03-01-home-design-ideas %}) and [about the lights]({% post_url 2026-02-01-lights-for-our-house %}).
