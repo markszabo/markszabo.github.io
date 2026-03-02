@@ -1,0 +1,67 @@
+name: Deploy site to GitHub Pages
+
+on:
+  repository_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: "Whether to deploy the site"
+        default: "true"
+        required: false
+      send-newsletter:
+        description: "Whether to send the newsletter"
+        default: "false"
+        required: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          repository: ${{ secrets.SOURCE_REPO_NAME }}
+          ssh-key: ${{ secrets.SOURCE_REPO_KEY }}
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: .
+          destination: ./_site
+          future: false
+          verbose: true
+
+      - name: Upload artifact
+        if: ${{ github.event_name == 'repository_dispatch' || github.event.inputs.deploy == 'true' }}
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    if: github.event_name == 'repository_dispatch' || github.event.inputs.deploy == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Send newsletters about the new post
+        if: ${{ github.event_name == 'repository_dispatch' || github.event.inputs.send-newsletter == 'true' }}
+        run: |
+          echo "✅ Deployment finished"
+          echo "Sending newsletters"
+          # TODO: remove --insecure once the cert issue is resolved
+          curl --insecure -v --fail "https://newsletter.szabo.jp/?action=send-digest&key=${{ secrets.NEWSLETTER_SENDING_KEY }}"
+          echo "Newsletter notifications sent"
